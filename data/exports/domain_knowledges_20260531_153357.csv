@@ -1,0 +1,13 @@
+knowledge_id,domain_type,name,content,confidence,tags,sources,created_at,updated_at
+technology_skill_20260526_111303,technology,Python高级编程,"{""skill_name"": ""Python"", ""category"": ""编程语言"", ""level"": ""高级"", ""applications"": [""Web开发"", ""数据分析""]}",0.8,技术|编程|Python|Web开发,,2026-05-26T11:13:03.625424,2026-05-26T11:13:03.625428
+health_condition_20260526_111303,healthcare,普通感冒诊疗,"{""condition_name"": ""感冒"", ""symptoms"": [""流鼻涕"", ""咳嗽""], ""causes"": [""病毒""]}",0.8,医疗|健康|感冒,,2026-05-26T11:13:03.625639,2026-05-26T11:13:03.625641
+education_subject_20260526_111303,education,线性代数基础,"{""subject_name"": ""线性代数"", ""grade_level"": ""大学"", ""core_concepts"": [""向量"", ""矩阵""]}",0.8,教育|数学|线性代数,,2026-05-26T11:13:03.625806,2026-05-26T11:13:03.625808
+technology_skill_20260526_111416,technology,Python高级编程,"{""skill_name"": ""Python"", ""category"": ""编程语言"", ""level"": ""高级"", ""applications"": [""Web开发"", ""数据分析""]}",0.8,技术|编程|Python|Web开发,,2026-05-26T11:14:16.680159,2026-05-26T11:14:16.680164
+health_condition_20260526_111416,healthcare,普通感冒诊疗,"{""condition_name"": ""感冒"", ""symptoms"": [""流鼻涕"", ""咳嗽""], ""causes"": [""病毒""]}",0.8,医疗|健康|感冒,,2026-05-26T11:14:16.680461,2026-05-26T11:14:16.680462
+education_subject_20260526_111416,education,线性代数基础,"{""subject_name"": ""线性代数"", ""grade_level"": ""大学"", ""core_concepts"": [""向量"", ""矩阵""]}",0.8,教育|数学|线性代数,,2026-05-26T11:14:16.680903,2026-05-26T11:14:16.680905
+health_condition_20260531_153322,healthcare,普通感冒,"{""condition_name"": ""感冒"", ""symptoms"": [""流鼻涕""], ""causes"": [""病毒""]}",0.8,医疗|健康,,2026-05-31T15:33:22.227147,2026-05-31T15:33:22.227151
+education_subject_20260531_153322,education,线性代数,"{""subject_name"": ""线性代数"", ""grade_level"": ""大学"", ""core_concepts"": [""向量""]}",0.8,教育|数学,,2026-05-31T15:33:22.227753,2026-05-31T15:33:22.227757
+technology_skill_20260531_153322,technology,Python高级编程,"{""skill_name"": ""Python"", ""category"": ""编程语言"", ""level"": ""高级""}",0.8,技术|编程|Python,,2026-05-31T15:33:22.226725,2026-05-31T15:33:22.226730
+technology_skill_20260531_153357,technology,Python高级编程,"{""skill_name"": ""Python"", ""category"": ""编程语言"", ""level"": ""高级""}",0.8,技术|编程|Python,,2026-05-31T15:33:57.693708,2026-05-31T15:33:57.693712
+health_condition_20260531_153357,healthcare,普通感冒,"{""condition_name"": ""感冒"", ""symptoms"": [""流鼻涕""], ""causes"": [""病毒""]}",0.8,医疗|健康,,2026-05-31T15:33:57.694235,2026-05-31T15:33:57.694239
+education_subject_20260531_153357,education,线性代数,"{""subject_name"": ""线性代数"", ""grade_level"": ""大学"", ""core_concepts"": [""向量""]}",0.8,教育|数学,,2026-05-31T15:33:57.694933,2026-05-31T15:33:57.694937

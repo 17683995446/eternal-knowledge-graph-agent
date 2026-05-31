@@ -1,0 +1,2 @@
+# Eternal Agent - Zero External Dependencies
+# 零依赖，不需要安装任何外部包

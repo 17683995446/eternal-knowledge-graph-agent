@@ -1,0 +1,2013 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-05-25T23:40:56.077323",
+  "confidences": [
+    {
+      "knowledge_id": "a001e7e82a73",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076608"
+    },
+    {
+      "knowledge_id": "3cd1b9b3d0fb",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076619"
+    },
+    {
+      "knowledge_id": "a4569bd55b3a",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076623"
+    },
+    {
+      "knowledge_id": "cb1763d14e77",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076627"
+    },
+    {
+      "knowledge_id": "df39f6a48d6d",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076629"
+    },
+    {
+      "knowledge_id": "9682d77257f9",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076633"
+    },
+    {
+      "knowledge_id": "207fdd290de1",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076636"
+    },
+    {
+      "knowledge_id": "309a1c6042cf",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076639"
+    },
+    {
+      "knowledge_id": "ed5227c342ba",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076642"
+    },
+    {
+      "knowledge_id": "93204dab3167",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076645"
+    },
+    {
+      "knowledge_id": "86b770385a1c",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076648"
+    },
+    {
+      "knowledge_id": "d03a4ad2ee56",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076651"
+    },
+    {
+      "knowledge_id": "293c54c635ac",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076654"
+    },
+    {
+      "knowledge_id": "5416d5ba3ff1",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076657"
+    },
+    {
+      "knowledge_id": "57712d5b8682",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076659"
+    },
+    {
+      "knowledge_id": "d37a5f2b8089",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076662"
+    },
+    {
+      "knowledge_id": "d76599cd6540",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076665"
+    },
+    {
+      "knowledge_id": "dba517293a47",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076668"
+    },
+    {
+      "knowledge_id": "b7fbf906f839",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076671"
+    },
+    {
+      "knowledge_id": "bea934cf2c6c",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076673"
+    },
+    {
+      "knowledge_id": "8478534ead5b",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076676"
+    },
+    {
+      "knowledge_id": "bd2782a39214",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076680"
+    },
+    {
+      "knowledge_id": "1bff50c8c010",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076682"
+    },
+    {
+      "knowledge_id": "10efd99c0c4c",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076685"
+    },
+    {
+      "knowledge_id": "62a21d44aff2",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076688"
+    },
+    {
+      "knowledge_id": "e4a8083109f5",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076691"
+    },
+    {
+      "knowledge_id": "f2a63bebc056",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076694"
+    },
+    {
+      "knowledge_id": "06b15804edaf",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076697"
+    },
+    {
+      "knowledge_id": "0660baa03107",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076700"
+    },
+    {
+      "knowledge_id": "2b14b50b77b6",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076703"
+    },
+    {
+      "knowledge_id": "94c8419f1753",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076705"
+    },
+    {
+      "knowledge_id": "ce14603a9d42",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076708"
+    },
+    {
+      "knowledge_id": "a27220879052",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076711"
+    },
+    {
+      "knowledge_id": "068482ebfd20",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076714"
+    },
+    {
+      "knowledge_id": "39d0de2f7752",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076716"
+    },
+    {
+      "knowledge_id": "9e66281057ab",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076719"
+    },
+    {
+      "knowledge_id": "4b56bc25a2a9",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076722"
+    },
+    {
+      "knowledge_id": "c27ac70b617a",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076724"
+    },
+    {
+      "knowledge_id": "bc1c9afd560b",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076727"
+    },
+    {
+      "knowledge_id": "1932831c88c5",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076730"
+    },
+    {
+      "knowledge_id": "3ca9a473a6a6",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076732"
+    },
+    {
+      "knowledge_id": "768ae3e0f9e1",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076735"
+    },
+    {
+      "knowledge_id": "7e681f62f0d5",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076739"
+    },
+    {
+      "knowledge_id": "11e74f6262cc",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076741"
+    },
+    {
+      "knowledge_id": "31a1517418a5",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076744"
+    },
+    {
+      "knowledge_id": "30cc8e0f4dbd",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076746"
+    },
+    {
+      "knowledge_id": "6278a9bbc373",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076749"
+    },
+    {
+      "knowledge_id": "fdeb217e74a4",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076752"
+    },
+    {
+      "knowledge_id": "2929fd796515",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076754"
+    },
+    {
+      "knowledge_id": "39140500a6f9",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076757"
+    },
+    {
+      "knowledge_id": "a3b6356218df",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076763"
+    },
+    {
+      "knowledge_id": "74e40e749093",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076766"
+    },
+    {
+      "knowledge_id": "65f2f525f8fd",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076769"
+    },
+    {
+      "knowledge_id": "1923eeef9a5e",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076772"
+    },
+    {
+      "knowledge_id": "896922698677",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076775"
+    },
+    {
+      "knowledge_id": "ff739ec76726",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076778"
+    },
+    {
+      "knowledge_id": "0121733a6bdb",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076780"
+    },
+    {
+      "knowledge_id": "5ba93827b544",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076783"
+    },
+    {
+      "knowledge_id": "3f270449c4c0",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076786"
+    },
+    {
+      "knowledge_id": "714f937f07eb",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076788"
+    },
+    {
+      "knowledge_id": "48f4b9a6ccd8",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076791"
+    },
+    {
+      "knowledge_id": "2cd236d37435",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076794"
+    },
+    {
+      "knowledge_id": "222077a7473f",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076796"
+    },
+    {
+      "knowledge_id": "d4405f87d5a9",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076799"
+    },
+    {
+      "knowledge_id": "1dbd38663aeb",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076801"
+    },
+    {
+      "knowledge_id": "09b8ac59c28f",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076804"
+    },
+    {
+      "knowledge_id": "e3b998f1ad01",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076807"
+    },
+    {
+      "knowledge_id": "37003cb5f776",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076810"
+    },
+    {
+      "knowledge_id": "6717fa3d1976",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076812"
+    },
+    {
+      "knowledge_id": "9dc45cb16a9d",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076815"
+    },
+    {
+      "knowledge_id": "6c62dfcb0dd3",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076818"
+    },
+    {
+      "knowledge_id": "c60dd7dfba3a",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076820"
+    },
+    {
+      "knowledge_id": "748b83549fc3",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076823"
+    },
+    {
+      "knowledge_id": "3ceb2de77ab7",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076825"
+    },
+    {
+      "knowledge_id": "64c21e392226",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076828"
+    },
+    {
+      "knowledge_id": "b99b056dce51",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076831"
+    },
+    {
+      "knowledge_id": "91867db14606",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076833"
+    },
+    {
+      "knowledge_id": "ac3d49204eff",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076836"
+    },
+    {
+      "knowledge_id": "c53ccd93ae84",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076839"
+    },
+    {
+      "knowledge_id": "2618fc2eb94d",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076842"
+    },
+    {
+      "knowledge_id": "242315efae59",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076844"
+    },
+    {
+      "knowledge_id": "619dbcd044d5",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076847"
+    },
+    {
+      "knowledge_id": "4c3df57d6f74",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076850"
+    },
+    {
+      "knowledge_id": "a605a95df8aa",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076852"
+    },
+    {
+      "knowledge_id": "a4e8a18a7557",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076855"
+    },
+    {
+      "knowledge_id": "e33222a13ac5",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076859"
+    },
+    {
+      "knowledge_id": "1c8e927934e4",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076862"
+    },
+    {
+      "knowledge_id": "79c41e8dbdd0",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076864"
+    },
+    {
+      "knowledge_id": "1d866cf11f25",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076867"
+    },
+    {
+      "knowledge_id": "d6b8fa83cfb0",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076870"
+    },
+    {
+      "knowledge_id": "66fc9a8e6d07",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076872"
+    },
+    {
+      "knowledge_id": "f5c3a1836194",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076875"
+    },
+    {
+      "knowledge_id": "d65027fa106b",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076878"
+    },
+    {
+      "knowledge_id": "18d3f245ef99",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076881"
+    },
+    {
+      "knowledge_id": "9e64fb3c308c",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076883"
+    },
+    {
+      "knowledge_id": "ac1daa01e27e",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076886"
+    },
+    {
+      "knowledge_id": "9a458ce7a1b1",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076888"
+    },
+    {
+      "knowledge_id": "ffbf2243e21f",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076891"
+    },
+    {
+      "knowledge_id": "b50a760494bd",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076894"
+    },
+    {
+      "knowledge_id": "79ef207370e2",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076897"
+    },
+    {
+      "knowledge_id": "d6ba83b31f61",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076899"
+    },
+    {
+      "knowledge_id": "c937a78820e1",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076902"
+    },
+    {
+      "knowledge_id": "4fdd2cd84297",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076905"
+    },
+    {
+      "knowledge_id": "684cc0d43ac9",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076907"
+    },
+    {
+      "knowledge_id": "bc8f60f68f59",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076910"
+    },
+    {
+      "knowledge_id": "4572a202bfd2",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076913"
+    },
+    {
+      "knowledge_id": "2f2a9ef77816",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076915"
+    },
+    {
+      "knowledge_id": "b168025430db",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076918"
+    },
+    {
+      "knowledge_id": "dd64cce83711",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076921"
+    },
+    {
+      "knowledge_id": "fc3ae24a0d0b",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076924"
+    },
+    {
+      "knowledge_id": "aa92c16f06fa",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076927"
+    },
+    {
+      "knowledge_id": "ea6e700a3481",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076930"
+    },
+    {
+      "knowledge_id": "ae5d05ef44df",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076932"
+    },
+    {
+      "knowledge_id": "9d5efff863b3",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076935"
+    },
+    {
+      "knowledge_id": "f3c3cab41b00",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076937"
+    },
+    {
+      "knowledge_id": "66562170e27a",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076940"
+    },
+    {
+      "knowledge_id": "eec47f9007ff",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076943"
+    },
+    {
+      "knowledge_id": "ca5a40798bde",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076946"
+    },
+    {
+      "knowledge_id": "728fcc61d4e7",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076948"
+    },
+    {
+      "knowledge_id": "e1799e383e0d",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076951"
+    },
+    {
+      "knowledge_id": "2bfb005d5eba",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076954"
+    },
+    {
+      "knowledge_id": "2433e73bb11e",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076956"
+    },
+    {
+      "knowledge_id": "9fa902523028",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076959"
+    },
+    {
+      "knowledge_id": "57168365b7c3",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076962"
+    },
+    {
+      "knowledge_id": "b244754268cf",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076964"
+    },
+    {
+      "knowledge_id": "42e81e812212",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076967"
+    },
+    {
+      "knowledge_id": "fe6040262207",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076970"
+    },
+    {
+      "knowledge_id": "c90b6ee9d06e",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076972"
+    },
+    {
+      "knowledge_id": "60dc73cf89e9",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076975"
+    },
+    {
+      "knowledge_id": "a3109662d25c",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076978"
+    },
+    {
+      "knowledge_id": "4ea1a76c9ce1",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076981"
+    },
+    {
+      "knowledge_id": "762fd57045f5",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076983"
+    },
+    {
+      "knowledge_id": "6af6fc8c1e70",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076986"
+    },
+    {
+      "knowledge_id": "6e0ba199d768",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076989"
+    },
+    {
+      "knowledge_id": "8b3e7942ffaf",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076991"
+    },
+    {
+      "knowledge_id": "9747f6859699",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076994"
+    },
+    {
+      "knowledge_id": "c9de45990373",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.076997"
+    },
+    {
+      "knowledge_id": "14af9fbed27a",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077000"
+    },
+    {
+      "knowledge_id": "2dc98dc515ca",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077002"
+    },
+    {
+      "knowledge_id": "5d016aa901bb",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077005"
+    },
+    {
+      "knowledge_id": "a8237810dce7",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077008"
+    },
+    {
+      "knowledge_id": "0c4b21c662ef",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077010"
+    },
+    {
+      "knowledge_id": "991387e771c2",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077013"
+    },
+    {
+      "knowledge_id": "38c0c2b3c670",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077016"
+    },
+    {
+      "knowledge_id": "cf5c764bace4",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077019"
+    },
+    {
+      "knowledge_id": "0e40e102995d",
+      "knowledge_type": "node",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077022"
+    },
+    {
+      "knowledge_id": "51025b88e10f",
+      "knowledge_type": "node",
+      "confidence": 0.85,
+      "verification_status": "verified",
+      "source_credibility": 0.75,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077025"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfb60>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077032"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfbd0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077036"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfc40>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077039"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfcb0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077042"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfd20>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077045"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfd90>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077049"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfe00>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077052"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfe70>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077055"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dfee0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077058"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1dff50>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077061"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4050>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077064"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d40c0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077067"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4130>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077070"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d41a0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077072"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4210>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077075"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4280>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077079"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d42f0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077081"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4360>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077085"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d43d0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077088"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4440>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077091"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d44b0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077094"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4520>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077097"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4590>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077100"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4600>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077104"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4670>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077107"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d46e0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077110"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4750>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077113"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d47c0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077116"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4830>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077119"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d48a0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077122"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4910>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077125"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4980>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077128"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d49f0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077131"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4a60>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077134"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4ad0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077137"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4b40>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077140"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4bb0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077143"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4c20>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077145"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4c90>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077148"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4d00>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077151"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4d70>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077154"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4de0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077157"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4e50>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077160"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4ec0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077163"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4f30>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077166"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d4fa0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077169"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5010>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077172"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5080>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077175"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d50f0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077178"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5160>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077181"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d51d0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077184"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5240>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077187"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d52b0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077190"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5320>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077193"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5390>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077195"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5400>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077198"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5470>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077201"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d54e0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077204"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5550>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077207"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d55c0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077210"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5630>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077213"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d56a0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077216"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5710>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077219"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5780>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077222"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d57f0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077225"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5860>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077228"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d58d0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077231"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5940>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077234"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d59b0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077237"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5a20>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077240"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5a90>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077243"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5b00>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077246"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5b70>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077249"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5be0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077251"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5c50>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077254"
+    },
+    {
+      "knowledge_id": "<core.knowledge_graph.Edge object at 0x7fd37a1d5cc0>",
+      "knowledge_type": "edge",
+      "confidence": 0.7000000000000001,
+      "verification_status": "verified",
+      "source_credibility": 0.6,
+      "total_verifications": 1,
+      "last_verified": "2026-05-25T23:40:56.077257"
+    }
+  ]
+}

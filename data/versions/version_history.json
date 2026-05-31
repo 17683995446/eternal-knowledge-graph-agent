@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-05-26T04:42:41.788026",
+  "current_version_number": 4,
+  "versions": [
+    {
+      "version_id": "v1",
+      "version_number": 1,
+      "timestamp": "2026-05-26T04:42:08.956162",
+      "action": "create",
+      "knowledge_type": "node",
+      "knowledge_id": "20292977669a",
+      "knowledge_name": "TestNode_1779770528943756_4076",
+      "previous_state": null,
+      "new_state": {
+        "id": "20292977669a",
+        "name": "TestNode_1779770528943756_4076",
+        "attr": {},
+        "created_at": "2026-05-26T04:42:08.943778"
+      },
+      "description": "Test node creation",
+      "metadata": {
+        "source": "auto_record"
+      }
+    },
+    {
+      "version_id": "v2",
+      "version_number": 2,
+      "timestamp": "2026-05-26T04:42:08.975998",
+      "action": "create",
+      "knowledge_type": "node",
+      "knowledge_id": "64f1f7ee1ddd",
+      "knowledge_name": "HistoryTestNode_1779770528973406_1353",
+      "previous_state": null,
+      "new_state": {
+        "id": "64f1f7ee1ddd",
+        "name": "HistoryTestNode_1779770528973406_1353",
+        "attr": {},
+        "created_at": "2026-05-26T04:42:08.973431"
+      },
+      "description": "Creating node for history test",
+      "metadata": {
+        "source": "auto_record"
+      }
+    },
+    {
+      "version_id": "v3",
+      "version_number": 3,
+      "timestamp": "2026-05-26T04:42:41.777219",
+      "action": "create",
+      "knowledge_type": "node",
+      "knowledge_id": "a0c48e15d2bc",
+      "knowledge_name": "TestNode_1779770561765940_1762",
+      "previous_state": null,
+      "new_state": {
+        "id": "a0c48e15d2bc",
+        "name": "TestNode_1779770561765940_1762",
+        "attr": {},
+        "created_at": "2026-05-26T04:42:41.765970"
+      },
+      "description": "Test node creation",
+      "metadata": {
+        "source": "auto_record"
+      }
+    },
+    {
+      "version_id": "v4",
+      "version_number": 4,
+      "timestamp": "2026-05-26T04:42:41.788012",
+      "action": "create",
+      "knowledge_type": "node",
+      "knowledge_id": "adf9ac6895e4",
+      "knowledge_name": "HistoryTestNode_1779770561785617_8773",
+      "previous_state": null,
+      "new_state": {
+        "id": "adf9ac6895e4",
+        "name": "HistoryTestNode_1779770561785617_8773",
+        "attr": {},
+        "created_at": "2026-05-26T04:42:41.785644"
+      },
+      "description": "Creating node for history test",
+      "metadata": {
+        "source": "auto_record"
+      }
+    }
+  ]
+}

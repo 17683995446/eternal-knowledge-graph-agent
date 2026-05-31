@@ -1,0 +1,3119 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-05-31T16:23:37.184892",
+  "knowledges": [
+    {
+      "knowledge_id": "technology_skill_20260526_111303",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级",
+        "applications": [
+          "Web开发",
+          "数据分析"
+        ]
+      },
+      "confidence": 1.0,
+      "tags": [
+        "技术",
+        "编程",
+        "Python",
+        "Web开发"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:13:03.625424",
+      "updated_at": "2026-05-26T11:13:03.625428"
+    },
+    {
+      "knowledge_id": "health_condition_20260526_111303",
+      "domain_type": "healthcare",
+      "name": "普通感冒诊疗",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕",
+          "咳嗽"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康",
+        "感冒"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:13:03.625639",
+      "updated_at": "2026-05-26T11:13:03.625641"
+    },
+    {
+      "knowledge_id": "education_subject_20260526_111303",
+      "domain_type": "education",
+      "name": "线性代数基础",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量",
+          "矩阵"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学",
+        "线性代数"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:13:03.625806",
+      "updated_at": "2026-05-26T11:13:03.625808"
+    },
+    {
+      "knowledge_id": "technology_skill_20260526_111416",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级",
+        "applications": [
+          "Web开发",
+          "数据分析"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python",
+        "Web开发"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:14:16.680159",
+      "updated_at": "2026-05-26T11:14:16.680164"
+    },
+    {
+      "knowledge_id": "health_condition_20260526_111416",
+      "domain_type": "healthcare",
+      "name": "普通感冒诊疗",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕",
+          "咳嗽"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康",
+        "感冒"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:14:16.680461",
+      "updated_at": "2026-05-26T11:14:16.680462"
+    },
+    {
+      "knowledge_id": "education_subject_20260526_111416",
+      "domain_type": "education",
+      "name": "线性代数基础",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量",
+          "矩阵"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学",
+        "线性代数"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:14:16.680903",
+      "updated_at": "2026-05-26T11:14:16.680905"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_153322",
+      "domain_type": "healthcare",
+      "name": "普通感冒",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:22.227147",
+      "updated_at": "2026-05-31T15:33:22.227151"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_153322",
+      "domain_type": "education",
+      "name": "线性代数",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:22.227753",
+      "updated_at": "2026-05-31T15:33:22.227757"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_153322",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:22.226725",
+      "updated_at": "2026-05-31T15:33:22.226730"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_153357",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:57.693708",
+      "updated_at": "2026-05-31T15:33:57.693712"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_153357",
+      "domain_type": "healthcare",
+      "name": "普通感冒",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:57.694235",
+      "updated_at": "2026-05-31T15:33:57.694239"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_153357",
+      "domain_type": "education",
+      "name": "线性代数",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:57.694933",
+      "updated_at": "2026-05-31T15:33:57.694937"
+    },
+    {
+      "knowledge_id": "migrated_a001e7e82a73",
+      "domain_type": "general",
+      "name": "测试节点1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.708929",
+      "updated_at": "2026-05-31T15:33:57.708934"
+    },
+    {
+      "knowledge_id": "migrated_3cd1b9b3d0fb",
+      "domain_type": "general",
+      "name": "测试节点2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.709559",
+      "updated_at": "2026-05-31T15:33:57.709564"
+    },
+    {
+      "knowledge_id": "migrated_a4569bd55b3a",
+      "domain_type": "general",
+      "name": "知识推演_测试节点2_测试关系_测试节点1",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.164947",
+        "run_counter": 5,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.166776"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.710266",
+      "updated_at": "2026-05-31T15:33:57.710271"
+    },
+    {
+      "knowledge_id": "migrated_cb1763d14e77",
+      "domain_type": "general",
+      "name": "系统迭代任务_5",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.710938",
+      "updated_at": "2026-05-31T15:33:57.710943"
+    },
+    {
+      "knowledge_id": "migrated_df39f6a48d6d",
+      "domain_type": "general",
+      "name": "知识推演_测试任务_1_自主衍生_系统迭代任务_0",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.168802",
+        "run_counter": 6,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.176571"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.711624",
+      "updated_at": "2026-05-31T15:33:57.711629"
+    },
+    {
+      "knowledge_id": "migrated_9682d77257f9",
+      "domain_type": "general",
+      "name": "系统迭代任务_6",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.712334",
+      "updated_at": "2026-05-31T15:33:57.712340"
+    },
+    {
+      "knowledge_id": "migrated_207fdd290de1",
+      "domain_type": "general",
+      "name": "知识推演_系统迭代任务_0_自主衍生_测试任务_1",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.172927",
+        "run_counter": 7,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.185918"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.713049",
+      "updated_at": "2026-05-31T15:33:57.713054"
+    },
+    {
+      "knowledge_id": "migrated_309a1c6042cf",
+      "domain_type": "general",
+      "name": "知识推演_系统迭代任务_0_自主衍生_初始认知任务",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.177036",
+        "run_counter": 8,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.195220"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.713822",
+      "updated_at": "2026-05-31T15:33:57.713828"
+    },
+    {
+      "knowledge_id": "migrated_ed5227c342ba",
+      "domain_type": "general",
+      "name": "临时节点_0",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.714644",
+      "updated_at": "2026-05-31T15:33:57.714649"
+    },
+    {
+      "knowledge_id": "migrated_93204dab3167",
+      "domain_type": "general",
+      "name": "临时节点_1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.715489",
+      "updated_at": "2026-05-31T15:33:57.715495"
+    },
+    {
+      "knowledge_id": "migrated_86b770385a1c",
+      "domain_type": "general",
+      "name": "临时节点_2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.716482",
+      "updated_at": "2026-05-31T15:33:57.716487"
+    },
+    {
+      "knowledge_id": "migrated_d03a4ad2ee56",
+      "domain_type": "general",
+      "name": "临时节点_3",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.717339",
+      "updated_at": "2026-05-31T15:33:57.717346"
+    },
+    {
+      "knowledge_id": "migrated_293c54c635ac",
+      "domain_type": "general",
+      "name": "临时节点_4",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.718189",
+      "updated_at": "2026-05-31T15:33:57.718194"
+    },
+    {
+      "knowledge_id": "migrated_5416d5ba3ff1",
+      "domain_type": "general",
+      "name": "临时节点_5",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.719089",
+      "updated_at": "2026-05-31T15:33:57.719094"
+    },
+    {
+      "knowledge_id": "migrated_57712d5b8682",
+      "domain_type": "general",
+      "name": "延迟保存测试节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.720035",
+      "updated_at": "2026-05-31T15:33:57.720040"
+    },
+    {
+      "knowledge_id": "migrated_d37a5f2b8089",
+      "domain_type": "general",
+      "name": "内存测试节点2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.720961",
+      "updated_at": "2026-05-31T15:33:57.720966"
+    },
+    {
+      "knowledge_id": "migrated_d76599cd6540",
+      "domain_type": "general",
+      "name": "补丁测试节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.722048",
+      "updated_at": "2026-05-31T15:33:57.722054"
+    },
+    {
+      "knowledge_id": "migrated_dba517293a47",
+      "domain_type": "general",
+      "name": "另一个节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.723001",
+      "updated_at": "2026-05-31T15:33:57.723006"
+    },
+    {
+      "knowledge_id": "migrated_b7fbf906f839",
+      "domain_type": "general",
+      "name": "统计测试节点_0",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.724024",
+      "updated_at": "2026-05-31T15:33:57.724030"
+    },
+    {
+      "knowledge_id": "migrated_bea934cf2c6c",
+      "domain_type": "general",
+      "name": "统计测试节点_9",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.725015",
+      "updated_at": "2026-05-31T15:33:57.725020"
+    },
+    {
+      "knowledge_id": "migrated_8478534ead5b",
+      "domain_type": "general",
+      "name": "集成测试节点_0",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.726004",
+      "updated_at": "2026-05-31T15:33:57.726009"
+    },
+    {
+      "knowledge_id": "migrated_bd2782a39214",
+      "domain_type": "general",
+      "name": "集成测试节点_19",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.727002",
+      "updated_at": "2026-05-31T15:33:57.727007"
+    },
+    {
+      "knowledge_id": "migrated_1bff50c8c010",
+      "domain_type": "general",
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.728026",
+      "updated_at": "2026-05-31T15:33:57.728032"
+    },
+    {
+      "knowledge_id": "migrated_10efd99c0c4c",
+      "domain_type": "general",
+      "name": "特殊字符:!@#$%^&*()",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.729076",
+      "updated_at": "2026-05-31T15:33:57.729082"
+    },
+    {
+      "knowledge_id": "migrated_62a21d44aff2",
+      "domain_type": "general",
+      "name": "中文测试节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.730190",
+      "updated_at": "2026-05-31T15:33:57.730196"
+    },
+    {
+      "knowledge_id": "migrated_e4a8083109f5",
+      "domain_type": "general",
+      "name": "A",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.731294",
+      "updated_at": "2026-05-31T15:33:57.731300"
+    },
+    {
+      "knowledge_id": "migrated_f2a63bebc056",
+      "domain_type": "general",
+      "name": "C",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.732414",
+      "updated_at": "2026-05-31T15:33:57.732420"
+    },
+    {
+      "knowledge_id": "migrated_06b15804edaf",
+      "domain_type": "general",
+      "name": "探索关联_批量测试节点_8_关联类型_3_批量测试节点_9",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.207115",
+        "run_counter": 7,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.213680"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.733586",
+      "updated_at": "2026-05-31T15:33:57.733592"
+    },
+    {
+      "knowledge_id": "migrated_0660baa03107",
+      "domain_type": "general",
+      "name": "探索关联_批量测试节点_24_关联类型_2_批量测试节点_28",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.225506",
+        "run_counter": 8,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.232231"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.734727",
+      "updated_at": "2026-05-31T15:33:57.734732"
+    },
+    {
+      "knowledge_id": "migrated_2b14b50b77b6",
+      "domain_type": "general",
+      "name": "探索关联_批量测试节点_5_关联类型_3_批量测试节点_7",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.262140",
+        "run_counter": 10,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.271885"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.735947",
+      "updated_at": "2026-05-31T15:33:57.735953"
+    },
+    {
+      "knowledge_id": "migrated_94c8419f1753",
+      "domain_type": "general",
+      "name": "系统迭代任务_10",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.737143",
+      "updated_at": "2026-05-31T15:33:57.737148"
+    },
+    {
+      "knowledge_id": "migrated_ce14603a9d42",
+      "domain_type": "general",
+      "name": "探索关联_批量测试节点_36_关联类型_3_批量测试节点_39",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.283788",
+        "run_counter": 11,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.293453"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.738490",
+      "updated_at": "2026-05-31T15:33:57.738496"
+    },
+    {
+      "knowledge_id": "migrated_a27220879052",
+      "domain_type": "general",
+      "name": "系统迭代任务_11",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.739754",
+      "updated_at": "2026-05-31T15:33:57.739759"
+    },
+    {
+      "knowledge_id": "migrated_068482ebfd20",
+      "domain_type": "general",
+      "name": "巩固关联_批量测试节点_40_关联类型_0_批量测试节点_43",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.296754",
+        "run_counter": 12,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.306514"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.741057",
+      "updated_at": "2026-05-31T15:33:57.741063"
+    },
+    {
+      "knowledge_id": "migrated_39d0de2f7752",
+      "domain_type": "general",
+      "name": "系统迭代任务_12",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.742334",
+      "updated_at": "2026-05-31T15:33:57.742339"
+    },
+    {
+      "knowledge_id": "migrated_9e66281057ab",
+      "domain_type": "general",
+      "name": "巩固关联_批量测试节点_0_关联类型_3_批量测试节点_3",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.309890",
+        "run_counter": 13,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.320448"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.743642",
+      "updated_at": "2026-05-31T15:33:57.743648"
+    },
+    {
+      "knowledge_id": "migrated_4b56bc25a2a9",
+      "domain_type": "general",
+      "name": "系统迭代任务_13",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.744957",
+      "updated_at": "2026-05-31T15:33:57.744962"
+    },
+    {
+      "knowledge_id": "migrated_c27ac70b617a",
+      "domain_type": "general",
+      "name": "巩固关联_批量测试节点_22_关联类型_0_批量测试节点_23",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.323846",
+        "run_counter": 14,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.334005"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.746307",
+      "updated_at": "2026-05-31T15:33:57.746312"
+    },
+    {
+      "knowledge_id": "migrated_bc1c9afd560b",
+      "domain_type": "general",
+      "name": "系统迭代任务_14",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.747683",
+      "updated_at": "2026-05-31T15:33:57.747689"
+    },
+    {
+      "knowledge_id": "migrated_1932831c88c5",
+      "domain_type": "general",
+      "name": "知识推演任务:系统迭代任务_4",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.337438",
+        "run_counter": 15,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.348003"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.749077",
+      "updated_at": "2026-05-31T15:33:57.749082"
+    },
+    {
+      "knowledge_id": "migrated_3ca9a473a6a6",
+      "domain_type": "general",
+      "name": "系统迭代任务_15",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.750483",
+      "updated_at": "2026-05-31T15:33:57.750488"
+    },
+    {
+      "knowledge_id": "migrated_768ae3e0f9e1",
+      "domain_type": "general",
+      "name": "系统迭代任务_16",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.751926",
+      "updated_at": "2026-05-31T15:33:57.751931"
+    },
+    {
+      "knowledge_id": "migrated_7e681f62f0d5",
+      "domain_type": "general",
+      "name": "系统迭代任务_17",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.753347",
+      "updated_at": "2026-05-31T15:33:57.753353"
+    },
+    {
+      "knowledge_id": "migrated_11e74f6262cc",
+      "domain_type": "general",
+      "name": "知识推演任务:系统迭代任务_5",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.379595",
+        "run_counter": 18,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.390074"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.754792",
+      "updated_at": "2026-05-31T15:33:57.754797"
+    },
+    {
+      "knowledge_id": "migrated_31a1517418a5",
+      "domain_type": "general",
+      "name": "系统迭代任务_18",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.756295",
+      "updated_at": "2026-05-31T15:33:57.756301"
+    },
+    {
+      "knowledge_id": "migrated_30cc8e0f4dbd",
+      "domain_type": "general",
+      "name": "系统迭代任务_19",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.757789",
+      "updated_at": "2026-05-31T15:33:57.757794"
+    },
+    {
+      "knowledge_id": "migrated_6278a9bbc373",
+      "domain_type": "general",
+      "name": "知识推演任务:系统迭代任务_6",
+      "content": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.408084",
+        "run_counter": 20,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.418416"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.759301",
+      "updated_at": "2026-05-31T15:33:57.759306"
+    },
+    {
+      "knowledge_id": "migrated_fdeb217e74a4",
+      "domain_type": "general",
+      "name": "系统迭代任务_20",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.760842",
+      "updated_at": "2026-05-31T15:33:57.760848"
+    },
+    {
+      "knowledge_id": "migrated_2929fd796515",
+      "domain_type": "general",
+      "name": "深度学习",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.762433",
+      "updated_at": "2026-05-31T15:33:57.762438"
+    },
+    {
+      "knowledge_id": "migrated_39140500a6f9",
+      "domain_type": "general",
+      "name": "神经网络",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.763987",
+      "updated_at": "2026-05-31T15:33:57.763992"
+    },
+    {
+      "knowledge_id": "migrated_a3b6356218df",
+      "domain_type": "general",
+      "name": "自然语言处理",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.765623",
+      "updated_at": "2026-05-31T15:33:57.765630"
+    },
+    {
+      "knowledge_id": "migrated_74e40e749093",
+      "domain_type": "general",
+      "name": "计算机视觉",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.767259",
+      "updated_at": "2026-05-31T15:33:57.767265"
+    },
+    {
+      "knowledge_id": "migrated_65f2f525f8fd",
+      "domain_type": "general",
+      "name": "强化学习",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.768887",
+      "updated_at": "2026-05-31T15:33:57.768892"
+    },
+    {
+      "knowledge_id": "migrated_1923eeef9a5e",
+      "domain_type": "general",
+      "name": "数据科学",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.770539",
+      "updated_at": "2026-05-31T15:33:57.770544"
+    },
+    {
+      "knowledge_id": "migrated_896922698677",
+      "domain_type": "general",
+      "name": "云计算",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.772229",
+      "updated_at": "2026-05-31T15:33:57.772234"
+    },
+    {
+      "knowledge_id": "migrated_ff739ec76726",
+      "domain_type": "general",
+      "name": "阶段21测试_0",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.773857",
+      "updated_at": "2026-05-31T15:33:57.773862"
+    },
+    {
+      "knowledge_id": "migrated_0121733a6bdb",
+      "domain_type": "general",
+      "name": "阶段21测试_1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.775558",
+      "updated_at": "2026-05-31T15:33:57.775563"
+    },
+    {
+      "knowledge_id": "migrated_5ba93827b544",
+      "domain_type": "general",
+      "name": "阶段21测试_2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.777272",
+      "updated_at": "2026-05-31T15:33:57.777277"
+    },
+    {
+      "knowledge_id": "migrated_3f270449c4c0",
+      "domain_type": "general",
+      "name": "阶段21测试_3",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.779001",
+      "updated_at": "2026-05-31T15:33:57.779006"
+    },
+    {
+      "knowledge_id": "migrated_714f937f07eb",
+      "domain_type": "general",
+      "name": "阶段21测试_4",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.780720",
+      "updated_at": "2026-05-31T15:33:57.780726"
+    },
+    {
+      "knowledge_id": "migrated_48f4b9a6ccd8",
+      "domain_type": "general",
+      "name": "高质量节点_0",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.782485",
+      "updated_at": "2026-05-31T15:33:57.782491"
+    },
+    {
+      "knowledge_id": "migrated_2cd236d37435",
+      "domain_type": "general",
+      "name": "高质量节点_1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.784263",
+      "updated_at": "2026-05-31T15:33:57.784269"
+    },
+    {
+      "knowledge_id": "migrated_222077a7473f",
+      "domain_type": "general",
+      "name": "高质量节点_2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.786055",
+      "updated_at": "2026-05-31T15:33:57.786060"
+    },
+    {
+      "knowledge_id": "migrated_d4405f87d5a9",
+      "domain_type": "general",
+      "name": "高质量节点_3",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.788004",
+      "updated_at": "2026-05-31T15:33:57.788011"
+    },
+    {
+      "knowledge_id": "migrated_1dbd38663aeb",
+      "domain_type": "general",
+      "name": "高质量节点_4",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.789868",
+      "updated_at": "2026-05-31T15:33:57.789874"
+    },
+    {
+      "knowledge_id": "migrated_09b8ac59c28f",
+      "domain_type": "general",
+      "name": "高质量节点_5",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.791857",
+      "updated_at": "2026-05-31T15:33:57.791864"
+    },
+    {
+      "knowledge_id": "migrated_e3b998f1ad01",
+      "domain_type": "general",
+      "name": "高质量节点_6",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.793764",
+      "updated_at": "2026-05-31T15:33:57.793770"
+    },
+    {
+      "knowledge_id": "migrated_37003cb5f776",
+      "domain_type": "general",
+      "name": "高质量节点_7",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.795717",
+      "updated_at": "2026-05-31T15:33:57.795723"
+    },
+    {
+      "knowledge_id": "migrated_6717fa3d1976",
+      "domain_type": "general",
+      "name": "高质量节点_8",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.797653",
+      "updated_at": "2026-05-31T15:33:57.797659"
+    },
+    {
+      "knowledge_id": "migrated_9dc45cb16a9d",
+      "domain_type": "general",
+      "name": "高质量节点_9",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.799586",
+      "updated_at": "2026-05-31T15:33:57.799592"
+    },
+    {
+      "knowledge_id": "migrated_6c62dfcb0dd3",
+      "domain_type": "general",
+      "name": "高质量节点_10",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.801601",
+      "updated_at": "2026-05-31T15:33:57.801607"
+    },
+    {
+      "knowledge_id": "migrated_c60dd7dfba3a",
+      "domain_type": "general",
+      "name": "高质量节点_11",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.803610",
+      "updated_at": "2026-05-31T15:33:57.803616"
+    },
+    {
+      "knowledge_id": "migrated_748b83549fc3",
+      "domain_type": "general",
+      "name": "高质量节点_12",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.805625",
+      "updated_at": "2026-05-31T15:33:57.805631"
+    },
+    {
+      "knowledge_id": "migrated_3ceb2de77ab7",
+      "domain_type": "general",
+      "name": "高质量节点_13",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.807626",
+      "updated_at": "2026-05-31T15:33:57.807632"
+    },
+    {
+      "knowledge_id": "migrated_64c21e392226",
+      "domain_type": "general",
+      "name": "高质量节点_14",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.809674",
+      "updated_at": "2026-05-31T15:33:57.809680"
+    },
+    {
+      "knowledge_id": "migrated_b99b056dce51",
+      "domain_type": "general",
+      "name": "高质量节点_15",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.811708",
+      "updated_at": "2026-05-31T15:33:57.811714"
+    },
+    {
+      "knowledge_id": "migrated_91867db14606",
+      "domain_type": "general",
+      "name": "高质量节点_16",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.813774",
+      "updated_at": "2026-05-31T15:33:57.813780"
+    },
+    {
+      "knowledge_id": "migrated_ac3d49204eff",
+      "domain_type": "general",
+      "name": "高质量节点_17",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.815919",
+      "updated_at": "2026-05-31T15:33:57.815925"
+    },
+    {
+      "knowledge_id": "migrated_c53ccd93ae84",
+      "domain_type": "general",
+      "name": "高质量节点_18",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.817964",
+      "updated_at": "2026-05-31T15:33:57.817970"
+    },
+    {
+      "knowledge_id": "migrated_2618fc2eb94d",
+      "domain_type": "general",
+      "name": "高质量节点_19",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.820134",
+      "updated_at": "2026-05-31T15:33:57.820140"
+    },
+    {
+      "knowledge_id": "migrated_242315efae59",
+      "domain_type": "general",
+      "name": "集成测试_0",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.822260",
+      "updated_at": "2026-05-31T15:33:57.822266"
+    },
+    {
+      "knowledge_id": "migrated_619dbcd044d5",
+      "domain_type": "general",
+      "name": "集成测试_1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.824389",
+      "updated_at": "2026-05-31T15:33:57.824395"
+    },
+    {
+      "knowledge_id": "migrated_4c3df57d6f74",
+      "domain_type": "general",
+      "name": "集成测试_2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.826565",
+      "updated_at": "2026-05-31T15:33:57.826571"
+    },
+    {
+      "knowledge_id": "migrated_a605a95df8aa",
+      "domain_type": "general",
+      "name": "集成测试_3",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.828752",
+      "updated_at": "2026-05-31T15:33:57.828758"
+    },
+    {
+      "knowledge_id": "migrated_a4e8a18a7557",
+      "domain_type": "general",
+      "name": "集成测试_4",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.830983",
+      "updated_at": "2026-05-31T15:33:57.830988"
+    },
+    {
+      "knowledge_id": "migrated_e33222a13ac5",
+      "domain_type": "general",
+      "name": "测试知识1",
+      "content": {
+        "type": "concept"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.833205",
+      "updated_at": "2026-05-31T15:33:57.833211"
+    },
+    {
+      "knowledge_id": "migrated_1c8e927934e4",
+      "domain_type": "general",
+      "name": "测试知识2",
+      "content": {
+        "type": "concept"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.835457",
+      "updated_at": "2026-05-31T15:33:57.835463"
+    },
+    {
+      "knowledge_id": "migrated_79c41e8dbdd0",
+      "domain_type": "general",
+      "name": "阶段24测试",
+      "content": {
+        "phase": "24"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.837671",
+      "updated_at": "2026-05-31T15:33:57.837677"
+    },
+    {
+      "knowledge_id": "migrated_1d866cf11f25",
+      "domain_type": "general",
+      "name": "Web界面",
+      "content": {
+        "type": "frontend"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.839932",
+      "updated_at": "2026-05-31T15:33:57.839938"
+    },
+    {
+      "knowledge_id": "migrated_d6b8fa83cfb0",
+      "domain_type": "general",
+      "name": "任务执行_0",
+      "content": {
+        "status": "completed"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.842305",
+      "updated_at": "2026-05-31T15:33:57.842312"
+    },
+    {
+      "knowledge_id": "migrated_66fc9a8e6d07",
+      "domain_type": "general",
+      "name": "任务执行_1",
+      "content": {
+        "status": "completed"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.844601",
+      "updated_at": "2026-05-31T15:33:57.844607"
+    },
+    {
+      "knowledge_id": "migrated_f5c3a1836194",
+      "domain_type": "general",
+      "name": "San Francisco",
+      "content": {
+        "extracted_from": "Alice works at OpenAI Inc in San Francisco",
+        "source": "text",
+        "confidence": 0.6
+      },
+      "confidence": 0.6,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.847553",
+      "updated_at": "2026-05-31T15:33:57.847560"
+    },
+    {
+      "knowledge_id": "migrated_d65027fa106b",
+      "domain_type": "general",
+      "name": "OpenAI Inc",
+      "content": {
+        "extracted_from": "Alice works at OpenAI Inc in San Francisco",
+        "source": "text",
+        "confidence": 0.6
+      },
+      "confidence": 0.6,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.849886",
+      "updated_at": "2026-05-31T15:33:57.849892"
+    },
+    {
+      "knowledge_id": "migrated_18d3f245ef99",
+      "domain_type": "general",
+      "name": "openai",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.854020",
+      "updated_at": "2026-05-31T15:33:57.854026"
+    },
+    {
+      "knowledge_id": "migrated_9e64fb3c308c",
+      "domain_type": "general",
+      "name": "alice",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.856441",
+      "updated_at": "2026-05-31T15:33:57.856447"
+    },
+    {
+      "knowledge_id": "migrated_ac1daa01e27e",
+      "domain_type": "general",
+      "name": "works",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.858846",
+      "updated_at": "2026-05-31T15:33:57.858852"
+    },
+    {
+      "knowledge_id": "migrated_9a458ce7a1b1",
+      "domain_type": "general",
+      "name": "inc",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.861262",
+      "updated_at": "2026-05-31T15:33:57.861268"
+    },
+    {
+      "knowledge_id": "migrated_ffbf2243e21f",
+      "domain_type": "general",
+      "name": "san",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.863648",
+      "updated_at": "2026-05-31T15:33:57.863654"
+    },
+    {
+      "knowledge_id": "migrated_b50a760494bd",
+      "domain_type": "general",
+      "name": "francisco",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.866113",
+      "updated_at": "2026-05-31T15:33:57.866119"
+    },
+    {
+      "knowledge_id": "migrated_79ef207370e2",
+      "domain_type": "general",
+      "name": "develops",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.868715",
+      "updated_at": "2026-05-31T15:33:57.868721"
+    },
+    {
+      "knowledge_id": "migrated_d6ba83b31f61",
+      "domain_type": "general",
+      "name": "technology",
+      "content": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "confidence": 0.4,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.871213",
+      "updated_at": "2026-05-31T15:33:57.871218"
+    },
+    {
+      "knowledge_id": "migrated_c937a78820e1",
+      "domain_type": "general",
+      "name": "TestNode1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.873663",
+      "updated_at": "2026-05-31T15:33:57.873668"
+    },
+    {
+      "knowledge_id": "migrated_4fdd2cd84297",
+      "domain_type": "general",
+      "name": "TestNode2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.876210",
+      "updated_at": "2026-05-31T15:33:57.876216"
+    },
+    {
+      "knowledge_id": "migrated_684cc0d43ac9",
+      "domain_type": "general",
+      "name": "B",
+      "content": {
+        "node_type": "concept"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.878769",
+      "updated_at": "2026-05-31T15:33:57.878774"
+    },
+    {
+      "knowledge_id": "migrated_bc8f60f68f59",
+      "domain_type": "general",
+      "name": "Alice",
+      "content": {
+        "node_type": "person"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.881309",
+      "updated_at": "2026-05-31T15:33:57.881324"
+    },
+    {
+      "knowledge_id": "migrated_4572a202bfd2",
+      "domain_type": "general",
+      "name": "Bob",
+      "content": {
+        "node_type": "person"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.883995",
+      "updated_at": "2026-05-31T15:33:57.884001"
+    },
+    {
+      "knowledge_id": "migrated_2f2a9ef77816",
+      "domain_type": "general",
+      "name": "X",
+      "content": {
+        "node_type": "concept"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.886574",
+      "updated_at": "2026-05-31T15:33:57.886580"
+    },
+    {
+      "knowledge_id": "migrated_b168025430db",
+      "domain_type": "general",
+      "name": "Y",
+      "content": {
+        "node_type": "concept"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.889188",
+      "updated_at": "2026-05-31T15:33:57.889194"
+    },
+    {
+      "knowledge_id": "migrated_dd64cce83711",
+      "domain_type": "general",
+      "name": "Z",
+      "content": {
+        "node_type": "concept"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.891997",
+      "updated_at": "2026-05-31T15:33:57.892004"
+    },
+    {
+      "knowledge_id": "migrated_fc3ae24a0d0b",
+      "domain_type": "general",
+      "name": "InferredByAgent",
+      "content": {
+        "inferred": true,
+        "rule_id": "agent_test_rule"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.894711",
+      "updated_at": "2026-05-31T15:33:57.894717"
+    },
+    {
+      "knowledge_id": "migrated_aa92c16f06fa",
+      "domain_type": "general",
+      "name": "源节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.897464",
+      "updated_at": "2026-05-31T15:33:57.897470"
+    },
+    {
+      "knowledge_id": "migrated_ea6e700a3481",
+      "domain_type": "general",
+      "name": "目标节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.900177",
+      "updated_at": "2026-05-31T15:33:57.900183"
+    },
+    {
+      "knowledge_id": "migrated_ae5d05ef44df",
+      "domain_type": "general",
+      "name": "节点A",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.902961",
+      "updated_at": "2026-05-31T15:33:57.902967"
+    },
+    {
+      "knowledge_id": "migrated_9d5efff863b3",
+      "domain_type": "general",
+      "name": "节点B",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.905705",
+      "updated_at": "2026-05-31T15:33:57.905711"
+    },
+    {
+      "knowledge_id": "migrated_f3c3cab41b00",
+      "domain_type": "general",
+      "name": "历史测试节点",
+      "content": {
+        "updated": true
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.908484",
+      "updated_at": "2026-05-31T15:33:57.908491"
+    },
+    {
+      "knowledge_id": "migrated_66562170e27a",
+      "domain_type": "general",
+      "name": "边测试节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.911347",
+      "updated_at": "2026-05-31T15:33:57.911353"
+    },
+    {
+      "knowledge_id": "migrated_eec47f9007ff",
+      "domain_type": "general",
+      "name": "快照测试节点1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.914157",
+      "updated_at": "2026-05-31T15:33:57.914164"
+    },
+    {
+      "knowledge_id": "migrated_ca5a40798bde",
+      "domain_type": "general",
+      "name": "快照测试节点2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.916964",
+      "updated_at": "2026-05-31T15:33:57.916970"
+    },
+    {
+      "knowledge_id": "migrated_728fcc61d4e7",
+      "domain_type": "general",
+      "name": "统计测试节点1",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.920190",
+      "updated_at": "2026-05-31T15:33:57.920196"
+    },
+    {
+      "knowledge_id": "migrated_e1799e383e0d",
+      "domain_type": "general",
+      "name": "统计测试节点2",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.923098",
+      "updated_at": "2026-05-31T15:33:57.923104"
+    },
+    {
+      "knowledge_id": "migrated_2bfb005d5eba",
+      "domain_type": "general",
+      "name": "Agent测试节点",
+      "content": {
+        "source": "agent"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.925998",
+      "updated_at": "2026-05-31T15:33:57.926004"
+    },
+    {
+      "knowledge_id": "migrated_2433e73bb11e",
+      "domain_type": "general",
+      "name": "Agent测试目标节点",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.928910",
+      "updated_at": "2026-05-31T15:33:57.928916"
+    },
+    {
+      "knowledge_id": "migrated_9fa902523028",
+      "domain_type": "general",
+      "name": "测试节点1_1779705721872889_7459",
+      "content": {
+        "type": "test"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.931967",
+      "updated_at": "2026-05-31T15:33:57.931984"
+    },
+    {
+      "knowledge_id": "migrated_57168365b7c3",
+      "domain_type": "general",
+      "name": "测试节点2_1779705721875332_9205",
+      "content": {
+        "type": "test2"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.934890",
+      "updated_at": "2026-05-31T15:33:57.934896"
+    },
+    {
+      "knowledge_id": "migrated_b244754268cf",
+      "domain_type": "general",
+      "name": "源节点_1779705721879636_5466",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.937873",
+      "updated_at": "2026-05-31T15:33:57.937879"
+    },
+    {
+      "knowledge_id": "migrated_42e81e812212",
+      "domain_type": "general",
+      "name": "目标节点_1779705721879644_4086",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.940843",
+      "updated_at": "2026-05-31T15:33:57.940849"
+    },
+    {
+      "knowledge_id": "migrated_fe6040262207",
+      "domain_type": "general",
+      "name": "节点A_1779705721890648_8001",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.943851",
+      "updated_at": "2026-05-31T15:33:57.943856"
+    },
+    {
+      "knowledge_id": "migrated_c90b6ee9d06e",
+      "domain_type": "general",
+      "name": "节点B_1779705721890654_4287",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.947919",
+      "updated_at": "2026-05-31T15:33:57.947925"
+    },
+    {
+      "knowledge_id": "migrated_60dc73cf89e9",
+      "domain_type": "general",
+      "name": "历史测试节点_1779705721949853_1529",
+      "content": {
+        "updated": true
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.951085",
+      "updated_at": "2026-05-31T15:33:57.951092"
+    },
+    {
+      "knowledge_id": "migrated_a3109662d25c",
+      "domain_type": "general",
+      "name": "边测试节点_1779705721952232_8488",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.954206",
+      "updated_at": "2026-05-31T15:33:57.954212"
+    },
+    {
+      "knowledge_id": "migrated_4ea1a76c9ce1",
+      "domain_type": "general",
+      "name": "快照测试节点1_1779705721959154_6667",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.957375",
+      "updated_at": "2026-05-31T15:33:57.957382"
+    },
+    {
+      "knowledge_id": "migrated_762fd57045f5",
+      "domain_type": "general",
+      "name": "快照测试节点2_1779705721959160_1397",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.960545",
+      "updated_at": "2026-05-31T15:33:57.960551"
+    },
+    {
+      "knowledge_id": "migrated_6af6fc8c1e70",
+      "domain_type": "general",
+      "name": "统计测试节点1_1779705721970937_2987",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.963678",
+      "updated_at": "2026-05-31T15:33:57.963684"
+    },
+    {
+      "knowledge_id": "migrated_6e0ba199d768",
+      "domain_type": "general",
+      "name": "统计测试节点2_1779705721970943_6596",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.966777",
+      "updated_at": "2026-05-31T15:33:57.966783"
+    },
+    {
+      "knowledge_id": "migrated_8b3e7942ffaf",
+      "domain_type": "general",
+      "name": "Agent测试节点_1779705721995921_6349",
+      "content": {
+        "source": "agent"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.969949",
+      "updated_at": "2026-05-31T15:33:57.969955"
+    },
+    {
+      "knowledge_id": "migrated_9747f6859699",
+      "domain_type": "general",
+      "name": "Agent测试目标节点_1779705721998429_8778",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.973095",
+      "updated_at": "2026-05-31T15:33:57.973101"
+    },
+    {
+      "knowledge_id": "migrated_c9de45990373",
+      "domain_type": "general",
+      "name": "TestNode_1779751859073863_2647",
+      "content": {
+        "attr1": "value1"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.976204",
+      "updated_at": "2026-05-31T15:33:57.976210"
+    },
+    {
+      "knowledge_id": "migrated_14af9fbed27a",
+      "domain_type": "general",
+      "name": "SourceNode_1779751859086883_9785",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.979367",
+      "updated_at": "2026-05-31T15:33:57.979373"
+    },
+    {
+      "knowledge_id": "migrated_2dc98dc515ca",
+      "domain_type": "general",
+      "name": "TargetNode_1779751859086892_3399",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.982526",
+      "updated_at": "2026-05-31T15:33:57.982532"
+    },
+    {
+      "knowledge_id": "migrated_5d016aa901bb",
+      "domain_type": "general",
+      "name": "SourceNode_1779751859108389_9851",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.985706",
+      "updated_at": "2026-05-31T15:33:57.985712"
+    },
+    {
+      "knowledge_id": "migrated_a8237810dce7",
+      "domain_type": "general",
+      "name": "TargetNode_1779751859108395_3924",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.989062",
+      "updated_at": "2026-05-31T15:33:57.989069"
+    },
+    {
+      "knowledge_id": "migrated_0c4b21c662ef",
+      "domain_type": "general",
+      "name": "AgentTestNode_1779751859142985_8953",
+      "content": {
+        "type": "conflict"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.992415",
+      "updated_at": "2026-05-31T15:33:57.992421"
+    },
+    {
+      "knowledge_id": "migrated_991387e771c2",
+      "domain_type": "general",
+      "name": "TestNode_1779752456021402_5238",
+      "content": {
+        "source_id": "test_source"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.995781",
+      "updated_at": "2026-05-31T15:33:57.995787"
+    },
+    {
+      "knowledge_id": "migrated_38c0c2b3c670",
+      "domain_type": "general",
+      "name": "SourceNode_1779752456034300_5696",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:57.999091",
+      "updated_at": "2026-05-31T15:33:57.999097"
+    },
+    {
+      "knowledge_id": "migrated_cf5c764bace4",
+      "domain_type": "general",
+      "name": "TargetNode_1779752456034308_1566",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.002442",
+      "updated_at": "2026-05-31T15:33:58.002449"
+    },
+    {
+      "knowledge_id": "migrated_0e40e102995d",
+      "domain_type": "general",
+      "name": "TestNode_1779752456042730_7050",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.005793",
+      "updated_at": "2026-05-31T15:33:58.005800"
+    },
+    {
+      "knowledge_id": "migrated_51025b88e10f",
+      "domain_type": "general",
+      "name": "AgentTestNode_1779752456072539_6232",
+      "content": {
+        "source_id": "test_integration"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.009205",
+      "updated_at": "2026-05-31T15:33:58.009211"
+    },
+    {
+      "knowledge_id": "migrated_20292977669a",
+      "domain_type": "general",
+      "name": "TestNode_1779770528943756_4076",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.012654",
+      "updated_at": "2026-05-31T15:33:58.012660"
+    },
+    {
+      "knowledge_id": "migrated_64f1f7ee1ddd",
+      "domain_type": "general",
+      "name": "HistoryTestNode_1779770528973406_1353",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.016092",
+      "updated_at": "2026-05-31T15:33:58.016098"
+    },
+    {
+      "knowledge_id": "migrated_a0c48e15d2bc",
+      "domain_type": "general",
+      "name": "TestNode_1779770561765940_1762",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.019503",
+      "updated_at": "2026-05-31T15:33:58.019509"
+    },
+    {
+      "knowledge_id": "migrated_adf9ac6895e4",
+      "domain_type": "general",
+      "name": "HistoryTestNode_1779770561785617_8773",
+      "content": {},
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.022958",
+      "updated_at": "2026-05-31T15:33:58.022964"
+    },
+    {
+      "knowledge_id": "migrated_2cd49961d64f",
+      "domain_type": "language",
+      "name": "Python",
+      "content": {
+        "type": "language"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.026386",
+      "updated_at": "2026-05-31T15:33:58.026392"
+    },
+    {
+      "knowledge_id": "migrated_72d15ac78bf6",
+      "domain_type": "general",
+      "name": "Web开发",
+      "content": {
+        "type": "application"
+      },
+      "confidence": 0.8,
+      "tags": [],
+      "sources": [
+        "knowledge_graph_migration"
+      ],
+      "created_at": "2026-05-31T15:33:58.029826",
+      "updated_at": "2026-05-31T15:33:58.029833"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_153733",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:37:33.377467",
+      "updated_at": "2026-05-31T15:37:33.384663"
+    },
+    {
+      "knowledge_id": "fork_technology_skill_20260531_153733_20260531153733",
+      "domain_type": "technology",
+      "name": "[分支] Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:37:33.377467",
+      "updated_at": "2026-05-31T15:37:33.377471"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_154126",
+      "domain_type": "technology",
+      "name": "Python编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:41:26.219407",
+      "updated_at": "2026-05-31T15:41:26.219411"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_154126",
+      "domain_type": "healthcare",
+      "name": "普通感冒",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:41:26.222860",
+      "updated_at": "2026-05-31T15:41:26.222861"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_154126",
+      "domain_type": "education",
+      "name": "线性代数",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:41:26.226460",
+      "updated_at": "2026-05-31T15:41:26.226464"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_154517",
+      "domain_type": "technology",
+      "name": "Python高级编程指南",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级",
+        "prerequisites": [
+          "基础编程"
+        ],
+        "applications": [
+          "Web开发",
+          "数据分析",
+          "AI"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python"
+      ],
+      "sources": [
+        "官方文档",
+        "实践经验"
+      ],
+      "created_at": "2026-05-31T15:45:17.863632",
+      "updated_at": "2026-05-31T15:45:17.863636"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_154537",
+      "domain_type": "technology",
+      "name": "Python高级编程指南",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级",
+        "prerequisites": [
+          "基础编程"
+        ],
+        "applications": [
+          "Web开发",
+          "数据分析",
+          "AI"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python"
+      ],
+      "sources": [
+        "官方文档",
+        "实践经验"
+      ],
+      "created_at": "2026-05-31T15:45:37.323350",
+      "updated_at": "2026-05-31T15:45:37.323355"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_0",
+      "domain_type": "technology",
+      "name": "Python是一种高级",
+      "content": {
+        "name": "Python是一种高级",
+        "category": "一种高级编程",
+        "level": "高级"
+      },
+      "confidence": 0.6,
+      "tags": [
+        "technology",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.067116",
+      "updated_at": "2026-05-31T15:48:57.067121"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_1",
+      "domain_type": "technology",
+      "name": "属于",
+      "content": {
+        "name": "属于",
+        "category": "一种高级编程",
+        "level": "高级"
+      },
+      "confidence": 0.6,
+      "tags": [
+        "technology",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.067156",
+      "updated_at": "2026-05-31T15:48:57.067158"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_2",
+      "domain_type": "technology",
+      "name": "它用于Web",
+      "content": {
+        "name": "它用于Web",
+        "category": "一种高级编程",
+        "level": "高级"
+      },
+      "confidence": 0.6,
+      "tags": [
+        "technology",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.067184",
+      "updated_at": "2026-05-31T15:48:57.067186"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_3",
+      "domain_type": "technology",
+      "name": "JavaScript是前端",
+      "content": {
+        "name": "JavaScript是前端",
+        "category": "一种高级编程",
+        "level": "高级"
+      },
+      "confidence": 0.6,
+      "tags": [
+        "technology",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.067209",
+      "updated_at": "2026-05-31T15:48:57.067211"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_4",
+      "domain_type": "technology",
+      "name": "属于",
+      "content": {
+        "name": "属于",
+        "category": "一种高级编程",
+        "level": "高级"
+      },
+      "confidence": 0.6,
+      "tags": [
+        "technology",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.067231",
+      "updated_at": "2026-05-31T15:48:57.067233"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_5",
+      "domain_type": "technology",
+      "name": "它用于Web前端",
+      "content": {
+        "name": "它用于Web前端",
+        "category": "编程",
+        "level": "高级"
+      },
+      "confidence": 0.6,
+      "tags": [
+        "technology",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.067257",
+      "updated_at": "2026-05-31T15:48:57.067259"
+    },
+    {
+      "knowledge_id": "extracted_healthcare_20260531154857_0",
+      "domain_type": "healthcare",
+      "name": "普通感冒是一种常见疾",
+      "content": {
+        "name": "普通感冒是一种常见疾",
+        "symptoms": [
+          "流鼻涕",
+          "打喷嚏",
+          "喉咙痛"
+        ],
+        "causes": [
+          "病毒感染"
+        ],
+        "treatments": [
+          "休息",
+          "多喝水"
+        ]
+      },
+      "confidence": 0.6,
+      "tags": [
+        "healthcare",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.068139",
+      "updated_at": "2026-05-31T15:48:57.068142"
+    },
+    {
+      "knowledge_id": "extracted_healthcare_20260531154857_1",
+      "domain_type": "healthcare",
+      "name": "病毒",
+      "content": {
+        "name": "病毒",
+        "symptoms": [
+          "流鼻涕",
+          "打喷嚏",
+          "喉咙痛"
+        ],
+        "causes": [
+          "病毒感染"
+        ],
+        "treatments": [
+          "休息",
+          "多喝水"
+        ]
+      },
+      "confidence": 0.6,
+      "tags": [
+        "healthcare",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.068175",
+      "updated_at": "2026-05-31T15:48:57.068177"
+    },
+    {
+      "knowledge_id": "extracted_healthcare_20260531154857_2",
+      "domain_type": "healthcare",
+      "name": "流鼻涕、打喷嚏、喉咙痛。",
+      "content": {
+        "name": "流鼻涕、打喷嚏、喉咙痛。",
+        "symptoms": [
+          "流鼻涕",
+          "打喷嚏",
+          "喉咙痛"
+        ],
+        "causes": [
+          "病毒感染"
+        ],
+        "treatments": [
+          "休息",
+          "多喝水"
+        ]
+      },
+      "confidence": 0.6,
+      "tags": [
+        "healthcare",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.068359",
+      "updated_at": "2026-05-31T15:48:57.068362"
+    },
+    {
+      "knowledge_id": "extracted_education_20260531154857_0",
+      "domain_type": "education",
+      "name": "线性代数是大学数学",
+      "content": {
+        "name": "线性代数是大学数学",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量",
+          "矩阵",
+          "线性变换"
+        ]
+      },
+      "confidence": 0.6,
+      "tags": [
+        "education",
+        "auto_extracted"
+      ],
+      "sources": [
+        "text_extraction"
+      ],
+      "created_at": "2026-05-31T15:48:57.069060",
+      "updated_at": "2026-05-31T15:48:57.069063"
+    },
+    {
+      "knowledge_id": "structured_technology_20260531154857_0",
+      "domain_type": "technology",
+      "name": "机器学习",
+      "content": {
+        "skill_name": "机器学习",
+        "category": "AI",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "technology",
+        "structured_data"
+      ],
+      "sources": [
+        "structured_import"
+      ],
+      "created_at": "2026-05-31T15:48:57.107000",
+      "updated_at": "2026-05-31T15:48:57.107004"
+    },
+    {
+      "knowledge_id": "structured_technology_20260531154857_1",
+      "domain_type": "technology",
+      "name": "深度学习",
+      "content": {
+        "skill_name": "深度学习",
+        "category": "AI",
+        "level": "专家"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "technology",
+        "structured_data"
+      ],
+      "sources": [
+        "structured_import"
+      ],
+      "created_at": "2026-05-31T15:48:57.107020",
+      "updated_at": "2026-05-31T15:48:57.107022"
+    },
+    {
+      "knowledge_id": "structured_technology_20260531154857_2",
+      "domain_type": "technology",
+      "name": "数据挖掘",
+      "content": {
+        "skill_name": "数据挖掘",
+        "category": "数据分析",
+        "level": "中级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "technology",
+        "structured_data"
+      ],
+      "sources": [
+        "structured_import"
+      ],
+      "created_at": "2026-05-31T15:48:57.107034",
+      "updated_at": "2026-05-31T15:48:57.107035"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_155227",
+      "domain_type": "technology",
+      "name": "Python编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级",
+        "applications": [
+          "Web开发",
+          "数据分析"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:52:27.321518",
+      "updated_at": "2026-05-31T15:52:27.321523"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_155227",
+      "domain_type": "healthcare",
+      "name": "普通感冒",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕",
+          "打喷嚏"
+        ],
+        "causes": [
+          "病毒感染"
+        ],
+        "treatments": [
+          "休息",
+          "多喝水"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:52:27.325478",
+      "updated_at": "2026-05-31T15:52:27.325482"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_155227",
+      "domain_type": "education",
+      "name": "线性代数",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量",
+          "矩阵",
+          "线性变换"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:52:27.329637",
+      "updated_at": "2026-05-31T15:52:27.329641"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_155541",
+      "domain_type": "technology",
+      "name": "Python编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:55:41.507272",
+      "updated_at": "2026-05-31T15:55:41.507276"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_155541",
+      "domain_type": "healthcare",
+      "name": "普通感冒",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:55:41.511345",
+      "updated_at": "2026-05-31T15:55:41.511349"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_155721",
+      "domain_type": "technology",
+      "name": "Python编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:57:21.443618",
+      "updated_at": "2026-05-31T15:57:21.443623"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_155721",
+      "domain_type": "healthcare",
+      "name": "普通感冒",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:57:21.447675",
+      "updated_at": "2026-05-31T15:57:21.447677"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_155721",
+      "domain_type": "education",
+      "name": "线性代数",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:57:21.451899",
+      "updated_at": "2026-05-31T15:57:21.451903"
+    },
+    {
+      "knowledge_id": "finance_product_20260531_155721",
+      "domain_type": "finance",
+      "name": "定期存款",
+      "content": {
+        "product_name": "定期存款",
+        "product_type": "储蓄",
+        "risk_level": "低"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "金融",
+        "理财"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:57:21.456126",
+      "updated_at": "2026-05-31T15:57:21.456130"
+    },
+    {
+      "knowledge_id": "fork_technology_skill_20260531_155721_20260531155721",
+      "domain_type": "technology",
+      "name": "[分支] Python编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:57:21.443618",
+      "updated_at": "2026-05-31T15:57:21.443623"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_160941",
+      "domain_type": "technology",
+      "name": "Python编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程",
+        "level": "专家级"
+      },
+      "confidence": 0.8500000000000001,
+      "tags": [
+        "技术",
+        "编程"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T16:09:41.060860",
+      "updated_at": "2026-05-31T16:09:41.060864"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_162337",
+      "domain_type": "technology",
+      "name": "技术技能1",
+      "content": {
+        "skill_name": "Skill1",
+        "category": "编程",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T16:23:37.180169",
+      "updated_at": "2026-05-31T16:23:37.180173"
+    }
+  ]
+}

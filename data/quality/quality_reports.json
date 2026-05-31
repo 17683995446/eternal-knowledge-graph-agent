@@ -1,0 +1,4772 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-05-31T15:57:22.693873",
+  "reports": [
+    {
+      "knowledge_id": "technology_skill_20260531_154517",
+      "overall_score": 0.95,
+      "quality_level": "excellent",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [],
+      "suggestions": [],
+      "evaluated_at": "2026-05-31T15:57:22.538477"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_154537",
+      "overall_score": 0.95,
+      "quality_level": "excellent",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [],
+      "suggestions": [],
+      "evaluated_at": "2026-05-31T15:57:22.544544"
+    },
+    {
+      "knowledge_id": "technology_skill_20260526_111303",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.498341"
+    },
+    {
+      "knowledge_id": "health_condition_20260526_111303",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.504337"
+    },
+    {
+      "knowledge_id": "education_subject_20260526_111303",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.510307"
+    },
+    {
+      "knowledge_id": "technology_skill_20260526_111416",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.516379"
+    },
+    {
+      "knowledge_id": "health_condition_20260526_111416",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.522253"
+    },
+    {
+      "knowledge_id": "education_subject_20260526_111416",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.528198"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_153322",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.534165"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_153322",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.540095"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_153322",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.546117"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_153357",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.553799"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_153357",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.559779"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_153357",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.565737"
+    },
+    {
+      "knowledge_id": "migrated_a001e7e82a73",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.571752"
+    },
+    {
+      "knowledge_id": "migrated_3cd1b9b3d0fb",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.577943"
+    },
+    {
+      "knowledge_id": "migrated_a4569bd55b3a",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.584029"
+    },
+    {
+      "knowledge_id": "migrated_cb1763d14e77",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.590034"
+    },
+    {
+      "knowledge_id": "migrated_df39f6a48d6d",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.596017"
+    },
+    {
+      "knowledge_id": "migrated_9682d77257f9",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.602006"
+    },
+    {
+      "knowledge_id": "migrated_207fdd290de1",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.608155"
+    },
+    {
+      "knowledge_id": "migrated_309a1c6042cf",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.614919"
+    },
+    {
+      "knowledge_id": "migrated_ed5227c342ba",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.621110"
+    },
+    {
+      "knowledge_id": "migrated_93204dab3167",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.627126"
+    },
+    {
+      "knowledge_id": "migrated_86b770385a1c",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.633111"
+    },
+    {
+      "knowledge_id": "migrated_d03a4ad2ee56",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.639041"
+    },
+    {
+      "knowledge_id": "migrated_293c54c635ac",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.645278"
+    },
+    {
+      "knowledge_id": "migrated_5416d5ba3ff1",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.652285"
+    },
+    {
+      "knowledge_id": "migrated_57712d5b8682",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.658468"
+    },
+    {
+      "knowledge_id": "migrated_d37a5f2b8089",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.664482"
+    },
+    {
+      "knowledge_id": "migrated_d76599cd6540",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.670918"
+    },
+    {
+      "knowledge_id": "migrated_dba517293a47",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.676929"
+    },
+    {
+      "knowledge_id": "migrated_b7fbf906f839",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.682946"
+    },
+    {
+      "knowledge_id": "migrated_bea934cf2c6c",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.688956"
+    },
+    {
+      "knowledge_id": "migrated_8478534ead5b",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.694955"
+    },
+    {
+      "knowledge_id": "migrated_bd2782a39214",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.700896"
+    },
+    {
+      "knowledge_id": "migrated_1bff50c8c010",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.706995"
+    },
+    {
+      "knowledge_id": "migrated_10efd99c0c4c",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.713009"
+    },
+    {
+      "knowledge_id": "migrated_62a21d44aff2",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.719022"
+    },
+    {
+      "knowledge_id": "migrated_e4a8083109f5",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息",
+        "使用更具描述性的名称"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.724949"
+    },
+    {
+      "knowledge_id": "migrated_f2a63bebc056",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息",
+        "使用更具描述性的名称"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.730895"
+    },
+    {
+      "knowledge_id": "migrated_06b15804edaf",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.736929"
+    },
+    {
+      "knowledge_id": "migrated_0660baa03107",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.743433"
+    },
+    {
+      "knowledge_id": "migrated_2b14b50b77b6",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.749582"
+    },
+    {
+      "knowledge_id": "migrated_94c8419f1753",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.755591"
+    },
+    {
+      "knowledge_id": "migrated_ce14603a9d42",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.761624"
+    },
+    {
+      "knowledge_id": "migrated_a27220879052",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.767708"
+    },
+    {
+      "knowledge_id": "migrated_068482ebfd20",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.773779"
+    },
+    {
+      "knowledge_id": "migrated_39d0de2f7752",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.779898"
+    },
+    {
+      "knowledge_id": "migrated_9e66281057ab",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.785882"
+    },
+    {
+      "knowledge_id": "migrated_4b56bc25a2a9",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.791919"
+    },
+    {
+      "knowledge_id": "migrated_c27ac70b617a",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.797946"
+    },
+    {
+      "knowledge_id": "migrated_bc1c9afd560b",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.803882"
+    },
+    {
+      "knowledge_id": "migrated_1932831c88c5",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.809946"
+    },
+    {
+      "knowledge_id": "migrated_3ca9a473a6a6",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.816128"
+    },
+    {
+      "knowledge_id": "migrated_768ae3e0f9e1",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.822367"
+    },
+    {
+      "knowledge_id": "migrated_7e681f62f0d5",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.828374"
+    },
+    {
+      "knowledge_id": "migrated_11e74f6262cc",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.834398"
+    },
+    {
+      "knowledge_id": "migrated_31a1517418a5",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.840634"
+    },
+    {
+      "knowledge_id": "migrated_30cc8e0f4dbd",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.846756"
+    },
+    {
+      "knowledge_id": "migrated_6278a9bbc373",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.852959"
+    },
+    {
+      "knowledge_id": "migrated_fdeb217e74a4",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.860057"
+    },
+    {
+      "knowledge_id": "migrated_2929fd796515",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.866197"
+    },
+    {
+      "knowledge_id": "migrated_39140500a6f9",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.872214"
+    },
+    {
+      "knowledge_id": "migrated_a3b6356218df",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.878166"
+    },
+    {
+      "knowledge_id": "migrated_74e40e749093",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.884278"
+    },
+    {
+      "knowledge_id": "migrated_65f2f525f8fd",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.890243"
+    },
+    {
+      "knowledge_id": "migrated_1923eeef9a5e",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.896257"
+    },
+    {
+      "knowledge_id": "migrated_896922698677",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.902290"
+    },
+    {
+      "knowledge_id": "migrated_ff739ec76726",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.908310"
+    },
+    {
+      "knowledge_id": "migrated_0121733a6bdb",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.914271"
+    },
+    {
+      "knowledge_id": "migrated_5ba93827b544",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.920238"
+    },
+    {
+      "knowledge_id": "migrated_3f270449c4c0",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.926209"
+    },
+    {
+      "knowledge_id": "migrated_714f937f07eb",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.932148"
+    },
+    {
+      "knowledge_id": "migrated_48f4b9a6ccd8",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.938297"
+    },
+    {
+      "knowledge_id": "migrated_2cd236d37435",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.946505"
+    },
+    {
+      "knowledge_id": "migrated_222077a7473f",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.955625"
+    },
+    {
+      "knowledge_id": "migrated_d4405f87d5a9",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.961915"
+    },
+    {
+      "knowledge_id": "migrated_1dbd38663aeb",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.967877"
+    },
+    {
+      "knowledge_id": "migrated_09b8ac59c28f",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.973961"
+    },
+    {
+      "knowledge_id": "migrated_e3b998f1ad01",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.979931"
+    },
+    {
+      "knowledge_id": "migrated_37003cb5f776",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.985900"
+    },
+    {
+      "knowledge_id": "migrated_6717fa3d1976",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.991853"
+    },
+    {
+      "knowledge_id": "migrated_9dc45cb16a9d",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:21.997800"
+    },
+    {
+      "knowledge_id": "migrated_6c62dfcb0dd3",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.003784"
+    },
+    {
+      "knowledge_id": "migrated_c60dd7dfba3a",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.010041"
+    },
+    {
+      "knowledge_id": "migrated_748b83549fc3",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.016059"
+    },
+    {
+      "knowledge_id": "migrated_3ceb2de77ab7",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.022819"
+    },
+    {
+      "knowledge_id": "migrated_64c21e392226",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.028757"
+    },
+    {
+      "knowledge_id": "migrated_b99b056dce51",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.034757"
+    },
+    {
+      "knowledge_id": "migrated_91867db14606",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.040666"
+    },
+    {
+      "knowledge_id": "migrated_ac3d49204eff",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.046607"
+    },
+    {
+      "knowledge_id": "migrated_c53ccd93ae84",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.052502"
+    },
+    {
+      "knowledge_id": "migrated_2618fc2eb94d",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.058480"
+    },
+    {
+      "knowledge_id": "migrated_242315efae59",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.064604"
+    },
+    {
+      "knowledge_id": "migrated_619dbcd044d5",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.070604"
+    },
+    {
+      "knowledge_id": "migrated_4c3df57d6f74",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.076629"
+    },
+    {
+      "knowledge_id": "migrated_a605a95df8aa",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.082694"
+    },
+    {
+      "knowledge_id": "migrated_a4e8a18a7557",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.088612"
+    },
+    {
+      "knowledge_id": "migrated_e33222a13ac5",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.094600"
+    },
+    {
+      "knowledge_id": "migrated_1c8e927934e4",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.100513"
+    },
+    {
+      "knowledge_id": "migrated_79c41e8dbdd0",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.106486"
+    },
+    {
+      "knowledge_id": "migrated_1d866cf11f25",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.112521"
+    },
+    {
+      "knowledge_id": "migrated_d6b8fa83cfb0",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.118498"
+    },
+    {
+      "knowledge_id": "migrated_66fc9a8e6d07",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.124435"
+    },
+    {
+      "knowledge_id": "migrated_f5c3a1836194",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.130399"
+    },
+    {
+      "knowledge_id": "migrated_d65027fa106b",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.136433"
+    },
+    {
+      "knowledge_id": "migrated_18d3f245ef99",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.142405"
+    },
+    {
+      "knowledge_id": "migrated_9e64fb3c308c",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.148362"
+    },
+    {
+      "knowledge_id": "migrated_ac1daa01e27e",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.154330"
+    },
+    {
+      "knowledge_id": "migrated_9a458ce7a1b1",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.162165"
+    },
+    {
+      "knowledge_id": "migrated_ffbf2243e21f",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.168263"
+    },
+    {
+      "knowledge_id": "migrated_b50a760494bd",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.174330"
+    },
+    {
+      "knowledge_id": "migrated_79ef207370e2",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.180372"
+    },
+    {
+      "knowledge_id": "migrated_d6ba83b31f61",
+      "overall_score": 0.78,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.3,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.186407"
+    },
+    {
+      "knowledge_id": "migrated_c937a78820e1",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.192374"
+    },
+    {
+      "knowledge_id": "migrated_4fdd2cd84297",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.198438"
+    },
+    {
+      "knowledge_id": "migrated_684cc0d43ac9",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息",
+        "使用更具描述性的名称"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.204414"
+    },
+    {
+      "knowledge_id": "migrated_bc8f60f68f59",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.210476"
+    },
+    {
+      "knowledge_id": "migrated_4572a202bfd2",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.216436"
+    },
+    {
+      "knowledge_id": "migrated_2f2a9ef77816",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息",
+        "使用更具描述性的名称"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.222904"
+    },
+    {
+      "knowledge_id": "migrated_b168025430db",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息",
+        "使用更具描述性的名称"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.228909"
+    },
+    {
+      "knowledge_id": "migrated_dd64cce83711",
+      "overall_score": 0.85,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.6,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息",
+        "使用更具描述性的名称"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.234922"
+    },
+    {
+      "knowledge_id": "migrated_fc3ae24a0d0b",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.240911"
+    },
+    {
+      "knowledge_id": "migrated_aa92c16f06fa",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.246913"
+    },
+    {
+      "knowledge_id": "migrated_ea6e700a3481",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.252865"
+    },
+    {
+      "knowledge_id": "migrated_ae5d05ef44df",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.258864"
+    },
+    {
+      "knowledge_id": "migrated_9d5efff863b3",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.264827"
+    },
+    {
+      "knowledge_id": "migrated_f3c3cab41b00",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.271493"
+    },
+    {
+      "knowledge_id": "migrated_66562170e27a",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.277507"
+    },
+    {
+      "knowledge_id": "migrated_eec47f9007ff",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.283545"
+    },
+    {
+      "knowledge_id": "migrated_ca5a40798bde",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.289541"
+    },
+    {
+      "knowledge_id": "migrated_728fcc61d4e7",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.295561"
+    },
+    {
+      "knowledge_id": "migrated_e1799e383e0d",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.301544"
+    },
+    {
+      "knowledge_id": "migrated_2bfb005d5eba",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.307554"
+    },
+    {
+      "knowledge_id": "migrated_2433e73bb11e",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.314229"
+    },
+    {
+      "knowledge_id": "migrated_9fa902523028",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.320232"
+    },
+    {
+      "knowledge_id": "migrated_57168365b7c3",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.326163"
+    },
+    {
+      "knowledge_id": "migrated_b244754268cf",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.332113"
+    },
+    {
+      "knowledge_id": "migrated_42e81e812212",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.338115"
+    },
+    {
+      "knowledge_id": "migrated_fe6040262207",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.344040"
+    },
+    {
+      "knowledge_id": "migrated_c90b6ee9d06e",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.350000"
+    },
+    {
+      "knowledge_id": "migrated_60dc73cf89e9",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.355935"
+    },
+    {
+      "knowledge_id": "migrated_a3109662d25c",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.361851"
+    },
+    {
+      "knowledge_id": "migrated_4ea1a76c9ce1",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.367792"
+    },
+    {
+      "knowledge_id": "migrated_762fd57045f5",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.373934"
+    },
+    {
+      "knowledge_id": "migrated_6af6fc8c1e70",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.380481"
+    },
+    {
+      "knowledge_id": "migrated_6e0ba199d768",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.386496"
+    },
+    {
+      "knowledge_id": "migrated_8b3e7942ffaf",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.392719"
+    },
+    {
+      "knowledge_id": "migrated_9747f6859699",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.398697"
+    },
+    {
+      "knowledge_id": "migrated_c9de45990373",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.404660"
+    },
+    {
+      "knowledge_id": "migrated_14af9fbed27a",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.410707"
+    },
+    {
+      "knowledge_id": "migrated_2dc98dc515ca",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.416708"
+    },
+    {
+      "knowledge_id": "migrated_5d016aa901bb",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.422677"
+    },
+    {
+      "knowledge_id": "migrated_a8237810dce7",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.429155"
+    },
+    {
+      "knowledge_id": "migrated_0c4b21c662ef",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.435125"
+    },
+    {
+      "knowledge_id": "migrated_991387e771c2",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.441133"
+    },
+    {
+      "knowledge_id": "migrated_38c0c2b3c670",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.447087"
+    },
+    {
+      "knowledge_id": "migrated_cf5c764bace4",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.453068"
+    },
+    {
+      "knowledge_id": "migrated_0e40e102995d",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.459047"
+    },
+    {
+      "knowledge_id": "migrated_51025b88e10f",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.466135"
+    },
+    {
+      "knowledge_id": "migrated_20292977669a",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.472162"
+    },
+    {
+      "knowledge_id": "migrated_64f1f7ee1ddd",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.478277"
+    },
+    {
+      "knowledge_id": "migrated_a0c48e15d2bc",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.484303"
+    },
+    {
+      "knowledge_id": "migrated_adf9ac6895e4",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.490285"
+    },
+    {
+      "knowledge_id": "migrated_2cd49961d64f",
+      "overall_score": 0.84,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        },
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'language' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息",
+        "添加与 'language' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.496253"
+    },
+    {
+      "knowledge_id": "migrated_72d15ac78bf6",
+      "overall_score": 0.88,
+      "quality_level": "good",
+      "completeness_score": 0.85,
+      "accuracy_score": 0.7,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "medium",
+          "message": "缺少标签"
+        },
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "内容过于简短，可能不够详细"
+        }
+      ],
+      "suggestions": [
+        "添加相关标签以便分类和搜索",
+        "补充更多详细信息"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.502276"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_153733",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.508257"
+    },
+    {
+      "knowledge_id": "fork_technology_skill_20260531_153733_20260531153733",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.514293"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_154126",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.520422"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_154126",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.526458"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_154126",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.532472"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_155721",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.666476"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_0",
+      "overall_score": 0.86,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.6,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.550559"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_1",
+      "overall_score": 0.84,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.5,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        },
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "使用更具描述性的名称",
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.556619"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_2",
+      "overall_score": 0.86,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.6,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.562678"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_3",
+      "overall_score": 0.86,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.6,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.568800"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_4",
+      "overall_score": 0.84,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.5,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        },
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "使用更具描述性的名称",
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.574939"
+    },
+    {
+      "knowledge_id": "extracted_technology_20260531154857_5",
+      "overall_score": 0.86,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.6,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.581121"
+    },
+    {
+      "knowledge_id": "extracted_healthcare_20260531154857_0",
+      "overall_score": 0.86,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.6,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'healthcare' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'healthcare' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.587731"
+    },
+    {
+      "knowledge_id": "extracted_healthcare_20260531154857_1",
+      "overall_score": 0.84,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.5,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "accuracy",
+          "severity": "medium",
+          "message": "知识名称过短"
+        },
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'healthcare' 不一致"
+        }
+      ],
+      "suggestions": [
+        "使用更具描述性的名称",
+        "添加与 'healthcare' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.593985"
+    },
+    {
+      "knowledge_id": "extracted_healthcare_20260531154857_2",
+      "overall_score": 0.86,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.6,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'healthcare' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'healthcare' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.600720"
+    },
+    {
+      "knowledge_id": "extracted_education_20260531154857_0",
+      "overall_score": 0.86,
+      "quality_level": "good",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.6,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'education' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'education' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.607077"
+    },
+    {
+      "knowledge_id": "structured_technology_20260531154857_0",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.8,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.613416"
+    },
+    {
+      "knowledge_id": "structured_technology_20260531154857_1",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.8,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.619721"
+    },
+    {
+      "knowledge_id": "structured_technology_20260531154857_2",
+      "overall_score": 0.91,
+      "quality_level": "excellent",
+      "completeness_score": 1.0,
+      "accuracy_score": 0.8,
+      "consistency_score": 0.85,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "consistency",
+          "severity": "low",
+          "message": "标签与领域类型 'technology' 不一致"
+        }
+      ],
+      "suggestions": [
+        "添加与 'technology' 领域相关的标签"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.626506"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_155227",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.633498"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_155227",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.639949"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_155227",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.646396"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_155541",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.652998"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_155541",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.659464"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_155721",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.672959"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_155721",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.680513"
+    },
+    {
+      "knowledge_id": "finance_product_20260531_155721",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.687078"
+    },
+    {
+      "knowledge_id": "fork_technology_skill_20260531_155721_20260531155721",
+      "overall_score": 0.92,
+      "quality_level": "excellent",
+      "completeness_score": 0.9,
+      "accuracy_score": 0.8,
+      "consistency_score": 1.0,
+      "freshness_score": 1.0,
+      "issues": [
+        {
+          "type": "completeness",
+          "severity": "low",
+          "message": "缺少来源信息"
+        }
+      ],
+      "suggestions": [
+        "添加知识来源以提高可信度"
+      ],
+      "evaluated_at": "2026-05-31T15:57:22.693863"
+    }
+  ]
+}

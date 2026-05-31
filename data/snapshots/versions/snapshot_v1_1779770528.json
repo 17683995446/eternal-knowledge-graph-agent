@@ -1,0 +1,1597 @@
+{
+  "snapshot_id": "snapshot_v1_1779770528",
+  "snapshot_name": "TestSnapshot_1779770528958527_1450",
+  "timestamp": "2026-05-26T04:42:08.958541",
+  "version_number": 1,
+  "description": "Test snapshot",
+  "node_count": 148,
+  "edge_count": 76,
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "a001e7e82a73",
+      "name": "测试节点1",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.131878"
+    },
+    {
+      "id": "3cd1b9b3d0fb",
+      "name": "测试节点2",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.132748"
+    },
+    {
+      "id": "a4569bd55b3a",
+      "name": "知识推演_测试节点2_测试关系_测试节点1",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.164947",
+        "run_counter": 5,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.166776"
+      },
+      "created_at": "2026-05-24T22:11:24.164957"
+    },
+    {
+      "id": "cb1763d14e77",
+      "name": "系统迭代任务_5",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.165853"
+    },
+    {
+      "id": "df39f6a48d6d",
+      "name": "知识推演_测试任务_1_自主衍生_系统迭代任务_0",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.168802",
+        "run_counter": 6,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.176571"
+      },
+      "created_at": "2026-05-24T22:11:24.168819"
+    },
+    {
+      "id": "9682d77257f9",
+      "name": "系统迭代任务_6",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.169789"
+    },
+    {
+      "id": "207fdd290de1",
+      "name": "知识推演_系统迭代任务_0_自主衍生_测试任务_1",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.172927",
+        "run_counter": 7,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.185918"
+      },
+      "created_at": "2026-05-24T22:11:24.172940"
+    },
+    {
+      "id": "309a1c6042cf",
+      "name": "知识推演_系统迭代任务_0_自主衍生_初始认知任务",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T22:11:24.177036",
+        "run_counter": 8,
+        "execution_count": 3,
+        "last_executed_at": "2026-05-24T23:43:41.195220"
+      },
+      "created_at": "2026-05-24T22:11:24.177047"
+    },
+    {
+      "id": "ed5227c342ba",
+      "name": "临时节点_0",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.220052"
+    },
+    {
+      "id": "93204dab3167",
+      "name": "临时节点_1",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.221258"
+    },
+    {
+      "id": "86b770385a1c",
+      "name": "临时节点_2",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.223577"
+    },
+    {
+      "id": "d03a4ad2ee56",
+      "name": "临时节点_3",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.225883"
+    },
+    {
+      "id": "293c54c635ac",
+      "name": "临时节点_4",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.228184"
+    },
+    {
+      "id": "5416d5ba3ff1",
+      "name": "临时节点_5",
+      "attr": {},
+      "created_at": "2026-05-24T22:11:24.230486"
+    },
+    {
+      "id": "57712d5b8682",
+      "name": "延迟保存测试节点",
+      "attr": {},
+      "created_at": "2026-05-24T23:30:41.179590"
+    },
+    {
+      "id": "d37a5f2b8089",
+      "name": "内存测试节点2",
+      "attr": {},
+      "created_at": "2026-05-24T23:30:41.205161"
+    },
+    {
+      "id": "d76599cd6540",
+      "name": "补丁测试节点",
+      "attr": {},
+      "created_at": "2026-05-24T23:30:41.207203"
+    },
+    {
+      "id": "dba517293a47",
+      "name": "另一个节点",
+      "attr": {},
+      "created_at": "2026-05-24T23:30:41.208509"
+    },
+    {
+      "id": "b7fbf906f839",
+      "name": "统计测试节点_0",
+      "attr": {},
+      "created_at": "2026-05-24T23:30:41.211838"
+    },
+    {
+      "id": "bea934cf2c6c",
+      "name": "统计测试节点_9",
+      "attr": {},
+      "created_at": "2026-05-24T23:30:41.234619"
+    },
+    {
+      "id": "8478534ead5b",
+      "name": "集成测试节点_0",
+      "attr": {},
+      "created_at": "2026-05-24T23:30:41.238210"
+    },
+    {
+      "id": "bd2782a39214",
+      "name": "集成测试节点_19",
+      "attr": {},
+      "created_at": "2026-05-24T23:33:22.868732"
+    },
+    {
+      "id": "1bff50c8c010",
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:40.548806"
+    },
+    {
+      "id": "10efd99c0c4c",
+      "name": "特殊字符:!@#$%^&*()",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:40.551126"
+    },
+    {
+      "id": "62a21d44aff2",
+      "name": "中文测试节点",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:40.552862"
+    },
+    {
+      "id": "e4a8083109f5",
+      "name": "A",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.113543"
+    },
+    {
+      "id": "f2a63bebc056",
+      "name": "C",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.119748"
+    },
+    {
+      "id": "06b15804edaf",
+      "name": "探索关联_批量测试节点_8_关联类型_3_批量测试节点_9",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.207115",
+        "run_counter": 7,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.213680"
+      },
+      "created_at": "2026-05-24T23:43:41.207133"
+    },
+    {
+      "id": "0660baa03107",
+      "name": "探索关联_批量测试节点_24_关联类型_2_批量测试节点_28",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.225506",
+        "run_counter": 8,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.232231"
+      },
+      "created_at": "2026-05-24T23:43:41.225524"
+    },
+    {
+      "id": "2b14b50b77b6",
+      "name": "探索关联_批量测试节点_5_关联类型_3_批量测试节点_7",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.262140",
+        "run_counter": 10,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.271885"
+      },
+      "created_at": "2026-05-24T23:43:41.262157"
+    },
+    {
+      "id": "94c8419f1753",
+      "name": "系统迭代任务_10",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.265537"
+    },
+    {
+      "id": "ce14603a9d42",
+      "name": "探索关联_批量测试节点_36_关联类型_3_批量测试节点_39",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.283788",
+        "run_counter": 11,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.293453"
+      },
+      "created_at": "2026-05-24T23:43:41.283805"
+    },
+    {
+      "id": "a27220879052",
+      "name": "系统迭代任务_11",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.287021"
+    },
+    {
+      "id": "068482ebfd20",
+      "name": "巩固关联_批量测试节点_40_关联类型_0_批量测试节点_43",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.296754",
+        "run_counter": 12,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.306514"
+      },
+      "created_at": "2026-05-24T23:43:41.296770"
+    },
+    {
+      "id": "39d0de2f7752",
+      "name": "系统迭代任务_12",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.300009"
+    },
+    {
+      "id": "9e66281057ab",
+      "name": "巩固关联_批量测试节点_0_关联类型_3_批量测试节点_3",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.309890",
+        "run_counter": 13,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.320448"
+      },
+      "created_at": "2026-05-24T23:43:41.309907"
+    },
+    {
+      "id": "4b56bc25a2a9",
+      "name": "系统迭代任务_13",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.313377"
+    },
+    {
+      "id": "c27ac70b617a",
+      "name": "巩固关联_批量测试节点_22_关联类型_0_批量测试节点_23",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.323846",
+        "run_counter": 14,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.334005"
+      },
+      "created_at": "2026-05-24T23:43:41.323864"
+    },
+    {
+      "id": "bc1c9afd560b",
+      "name": "系统迭代任务_14",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.327148"
+    },
+    {
+      "id": "1932831c88c5",
+      "name": "知识推演任务:系统迭代任务_4",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.337438",
+        "run_counter": 15,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.348003"
+      },
+      "created_at": "2026-05-24T23:43:41.337456"
+    },
+    {
+      "id": "3ca9a473a6a6",
+      "name": "系统迭代任务_15",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.340783"
+    },
+    {
+      "id": "768ae3e0f9e1",
+      "name": "系统迭代任务_16",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.354931"
+    },
+    {
+      "id": "7e681f62f0d5",
+      "name": "系统迭代任务_17",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.368630"
+    },
+    {
+      "id": "11e74f6262cc",
+      "name": "知识推演任务:系统迭代任务_5",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.379595",
+        "run_counter": 18,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.390074"
+      },
+      "created_at": "2026-05-24T23:43:41.379613"
+    },
+    {
+      "id": "31a1517418a5",
+      "name": "系统迭代任务_18",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.383017"
+    },
+    {
+      "id": "30cc8e0f4dbd",
+      "name": "系统迭代任务_19",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.397677"
+    },
+    {
+      "id": "6278a9bbc373",
+      "name": "知识推演任务:系统迭代任务_6",
+      "attr": {
+        "type": "executed_task",
+        "executed_at": "2026-05-24T23:43:41.408084",
+        "run_counter": 20,
+        "execution_count": 1,
+        "last_executed_at": "2026-05-24T23:43:41.418416"
+      },
+      "created_at": "2026-05-24T23:43:41.408101"
+    },
+    {
+      "id": "fdeb217e74a4",
+      "name": "系统迭代任务_20",
+      "attr": {},
+      "created_at": "2026-05-24T23:43:41.411531"
+    },
+    {
+      "id": "2929fd796515",
+      "name": "深度学习",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.378421"
+    },
+    {
+      "id": "39140500a6f9",
+      "name": "神经网络",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.381900"
+    },
+    {
+      "id": "a3b6356218df",
+      "name": "自然语言处理",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.385397"
+    },
+    {
+      "id": "74e40e749093",
+      "name": "计算机视觉",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.388918"
+    },
+    {
+      "id": "65f2f525f8fd",
+      "name": "强化学习",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.392380"
+    },
+    {
+      "id": "1923eeef9a5e",
+      "name": "数据科学",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.395855"
+    },
+    {
+      "id": "896922698677",
+      "name": "云计算",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.402787"
+    },
+    {
+      "id": "ff739ec76726",
+      "name": "阶段21测试_0",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:14.994557"
+    },
+    {
+      "id": "0121733a6bdb",
+      "name": "阶段21测试_1",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:15.003020"
+    },
+    {
+      "id": "5ba93827b544",
+      "name": "阶段21测试_2",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:15.007206"
+    },
+    {
+      "id": "3f270449c4c0",
+      "name": "阶段21测试_3",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:15.011380"
+    },
+    {
+      "id": "714f937f07eb",
+      "name": "阶段21测试_4",
+      "attr": {},
+      "created_at": "2026-05-24T23:58:15.015468"
+    },
+    {
+      "id": "48f4b9a6ccd8",
+      "name": "高质量节点_0",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.644817"
+    },
+    {
+      "id": "2cd236d37435",
+      "name": "高质量节点_1",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.646762"
+    },
+    {
+      "id": "222077a7473f",
+      "name": "高质量节点_2",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.648573"
+    },
+    {
+      "id": "d4405f87d5a9",
+      "name": "高质量节点_3",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.650313"
+    },
+    {
+      "id": "1dbd38663aeb",
+      "name": "高质量节点_4",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.652414"
+    },
+    {
+      "id": "09b8ac59c28f",
+      "name": "高质量节点_5",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.654292"
+    },
+    {
+      "id": "e3b998f1ad01",
+      "name": "高质量节点_6",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.656122"
+    },
+    {
+      "id": "37003cb5f776",
+      "name": "高质量节点_7",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.657909"
+    },
+    {
+      "id": "6717fa3d1976",
+      "name": "高质量节点_8",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.659690"
+    },
+    {
+      "id": "9dc45cb16a9d",
+      "name": "高质量节点_9",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.661480"
+    },
+    {
+      "id": "6c62dfcb0dd3",
+      "name": "高质量节点_10",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.663302"
+    },
+    {
+      "id": "c60dd7dfba3a",
+      "name": "高质量节点_11",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.665082"
+    },
+    {
+      "id": "748b83549fc3",
+      "name": "高质量节点_12",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.666862"
+    },
+    {
+      "id": "3ceb2de77ab7",
+      "name": "高质量节点_13",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.668694"
+    },
+    {
+      "id": "64c21e392226",
+      "name": "高质量节点_14",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.670525"
+    },
+    {
+      "id": "b99b056dce51",
+      "name": "高质量节点_15",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.672369"
+    },
+    {
+      "id": "91867db14606",
+      "name": "高质量节点_16",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.674206"
+    },
+    {
+      "id": "ac3d49204eff",
+      "name": "高质量节点_17",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.676086"
+    },
+    {
+      "id": "c53ccd93ae84",
+      "name": "高质量节点_18",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.677882"
+    },
+    {
+      "id": "2618fc2eb94d",
+      "name": "高质量节点_19",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.679737"
+    },
+    {
+      "id": "242315efae59",
+      "name": "集成测试_0",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.697894"
+    },
+    {
+      "id": "619dbcd044d5",
+      "name": "集成测试_1",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.699953"
+    },
+    {
+      "id": "4c3df57d6f74",
+      "name": "集成测试_2",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.701831"
+    },
+    {
+      "id": "a605a95df8aa",
+      "name": "集成测试_3",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.703772"
+    },
+    {
+      "id": "a4e8a18a7557",
+      "name": "集成测试_4",
+      "attr": {},
+      "created_at": "2026-05-25T00:20:44.705672"
+    },
+    {
+      "id": "e33222a13ac5",
+      "name": "测试知识1",
+      "attr": {
+        "type": "concept"
+      },
+      "created_at": "2026-05-25T04:33:04.033093"
+    },
+    {
+      "id": "1c8e927934e4",
+      "name": "测试知识2",
+      "attr": {
+        "type": "concept"
+      },
+      "created_at": "2026-05-25T04:33:04.034227"
+    },
+    {
+      "id": "79c41e8dbdd0",
+      "name": "阶段24测试",
+      "attr": {
+        "phase": "24"
+      },
+      "created_at": "2026-05-25T04:33:05.037247"
+    },
+    {
+      "id": "1d866cf11f25",
+      "name": "Web界面",
+      "attr": {
+        "type": "frontend"
+      },
+      "created_at": "2026-05-25T04:33:05.038323"
+    },
+    {
+      "id": "d6b8fa83cfb0",
+      "name": "任务执行_0",
+      "attr": {
+        "status": "completed"
+      },
+      "created_at": "2026-05-25T04:33:05.040242"
+    },
+    {
+      "id": "66fc9a8e6d07",
+      "name": "任务执行_1",
+      "attr": {
+        "status": "completed"
+      },
+      "created_at": "2026-05-25T04:33:05.041161"
+    },
+    {
+      "id": "f5c3a1836194",
+      "name": "San Francisco",
+      "attr": {
+        "extracted_from": "Alice works at OpenAI Inc in San Francisco",
+        "source": "text",
+        "confidence": 0.6
+      },
+      "created_at": "2026-05-25T04:52:18.658533"
+    },
+    {
+      "id": "d65027fa106b",
+      "name": "OpenAI Inc",
+      "attr": {
+        "extracted_from": "Alice works at OpenAI Inc in San Francisco",
+        "source": "text",
+        "confidence": 0.6
+      },
+      "created_at": "2026-05-25T04:52:18.659658"
+    },
+    {
+      "id": "18d3f245ef99",
+      "name": "openai",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.660675"
+    },
+    {
+      "id": "9e64fb3c308c",
+      "name": "alice",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.661678"
+    },
+    {
+      "id": "ac1daa01e27e",
+      "name": "works",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.662662"
+    },
+    {
+      "id": "9a458ce7a1b1",
+      "name": "inc",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.663648"
+    },
+    {
+      "id": "ffbf2243e21f",
+      "name": "san",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.664627"
+    },
+    {
+      "id": "b50a760494bd",
+      "name": "francisco",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.665585"
+    },
+    {
+      "id": "79ef207370e2",
+      "name": "develops",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.666555"
+    },
+    {
+      "id": "d6ba83b31f61",
+      "name": "technology",
+      "attr": {
+        "source": "text",
+        "confidence": 0.4
+      },
+      "created_at": "2026-05-25T04:52:18.667534"
+    },
+    {
+      "id": "c937a78820e1",
+      "name": "TestNode1",
+      "attr": {},
+      "created_at": "2026-05-25T04:53:34.266443"
+    },
+    {
+      "id": "4fdd2cd84297",
+      "name": "TestNode2",
+      "attr": {},
+      "created_at": "2026-05-25T04:53:34.267942"
+    },
+    {
+      "id": "684cc0d43ac9",
+      "name": "B",
+      "attr": {
+        "node_type": "concept"
+      },
+      "created_at": "2026-05-25T05:27:04.133872"
+    },
+    {
+      "id": "bc8f60f68f59",
+      "name": "Alice",
+      "attr": {
+        "node_type": "person"
+      },
+      "created_at": "2026-05-25T05:27:04.143753"
+    },
+    {
+      "id": "4572a202bfd2",
+      "name": "Bob",
+      "attr": {
+        "node_type": "person"
+      },
+      "created_at": "2026-05-25T05:27:04.144878"
+    },
+    {
+      "id": "2f2a9ef77816",
+      "name": "X",
+      "attr": {
+        "node_type": "concept"
+      },
+      "created_at": "2026-05-25T05:27:04.165412"
+    },
+    {
+      "id": "b168025430db",
+      "name": "Y",
+      "attr": {
+        "node_type": "concept"
+      },
+      "created_at": "2026-05-25T05:27:04.166609"
+    },
+    {
+      "id": "dd64cce83711",
+      "name": "Z",
+      "attr": {
+        "node_type": "concept"
+      },
+      "created_at": "2026-05-25T05:27:04.167732"
+    },
+    {
+      "id": "fc3ae24a0d0b",
+      "name": "InferredByAgent",
+      "attr": {
+        "inferred": true,
+        "rule_id": "agent_test_rule"
+      },
+      "created_at": "2026-05-25T05:27:04.173431"
+    },
+    {
+      "id": "aa92c16f06fa",
+      "name": "源节点",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.814072"
+    },
+    {
+      "id": "ea6e700a3481",
+      "name": "目标节点",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.816370"
+    },
+    {
+      "id": "ae5d05ef44df",
+      "name": "节点A",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.826010"
+    },
+    {
+      "id": "9d5efff863b3",
+      "name": "节点B",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.928287"
+    },
+    {
+      "id": "f3c3cab41b00",
+      "name": "历史测试节点",
+      "attr": {
+        "updated": true
+      },
+      "created_at": "2026-05-25T10:38:07.935775"
+    },
+    {
+      "id": "66562170e27a",
+      "name": "边测试节点",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.937934"
+    },
+    {
+      "id": "eec47f9007ff",
+      "name": "快照测试节点1",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.944341"
+    },
+    {
+      "id": "ca5a40798bde",
+      "name": "快照测试节点2",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.946534"
+    },
+    {
+      "id": "728fcc61d4e7",
+      "name": "统计测试节点1",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.956017"
+    },
+    {
+      "id": "e1799e383e0d",
+      "name": "统计测试节点2",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.958353"
+    },
+    {
+      "id": "2bfb005d5eba",
+      "name": "Agent测试节点",
+      "attr": {
+        "source": "agent"
+      },
+      "created_at": "2026-05-25T10:38:07.997225"
+    },
+    {
+      "id": "2433e73bb11e",
+      "name": "Agent测试目标节点",
+      "attr": {},
+      "created_at": "2026-05-25T10:38:07.999486"
+    },
+    {
+      "id": "9fa902523028",
+      "name": "测试节点1_1779705721872889_7459",
+      "attr": {
+        "type": "test"
+      },
+      "created_at": "2026-05-25T10:42:01.872918"
+    },
+    {
+      "id": "57168365b7c3",
+      "name": "测试节点2_1779705721875332_9205",
+      "attr": {
+        "type": "test2"
+      },
+      "created_at": "2026-05-25T10:42:01.875372"
+    },
+    {
+      "id": "b244754268cf",
+      "name": "源节点_1779705721879636_5466",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.879665"
+    },
+    {
+      "id": "42e81e812212",
+      "name": "目标节点_1779705721879644_4086",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.881854"
+    },
+    {
+      "id": "fe6040262207",
+      "name": "节点A_1779705721890648_8001",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.890673"
+    },
+    {
+      "id": "c90b6ee9d06e",
+      "name": "节点B_1779705721890654_4287",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.942992"
+    },
+    {
+      "id": "60dc73cf89e9",
+      "name": "历史测试节点_1779705721949853_1529",
+      "attr": {
+        "updated": true
+      },
+      "created_at": "2026-05-25T10:42:01.949889"
+    },
+    {
+      "id": "a3109662d25c",
+      "name": "边测试节点_1779705721952232_8488",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.952256"
+    },
+    {
+      "id": "4ea1a76c9ce1",
+      "name": "快照测试节点1_1779705721959154_6667",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.959179"
+    },
+    {
+      "id": "762fd57045f5",
+      "name": "快照测试节点2_1779705721959160_1397",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.961497"
+    },
+    {
+      "id": "6af6fc8c1e70",
+      "name": "统计测试节点1_1779705721970937_2987",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.970962"
+    },
+    {
+      "id": "6e0ba199d768",
+      "name": "统计测试节点2_1779705721970943_6596",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.973291"
+    },
+    {
+      "id": "8b3e7942ffaf",
+      "name": "Agent测试节点_1779705721995921_6349",
+      "attr": {
+        "source": "agent"
+      },
+      "created_at": "2026-05-25T10:42:01.995955"
+    },
+    {
+      "id": "9747f6859699",
+      "name": "Agent测试目标节点_1779705721998429_8778",
+      "attr": {},
+      "created_at": "2026-05-25T10:42:01.998456"
+    },
+    {
+      "id": "c9de45990373",
+      "name": "TestNode_1779751859073863_2647",
+      "attr": {
+        "attr1": "value1"
+      },
+      "created_at": "2026-05-25T23:30:59.073881"
+    },
+    {
+      "id": "14af9fbed27a",
+      "name": "SourceNode_1779751859086883_9785",
+      "attr": {},
+      "created_at": "2026-05-25T23:30:59.086903"
+    },
+    {
+      "id": "2dc98dc515ca",
+      "name": "TargetNode_1779751859086892_3399",
+      "attr": {},
+      "created_at": "2026-05-25T23:30:59.089251"
+    },
+    {
+      "id": "5d016aa901bb",
+      "name": "SourceNode_1779751859108389_9851",
+      "attr": {},
+      "created_at": "2026-05-25T23:30:59.108407"
+    },
+    {
+      "id": "a8237810dce7",
+      "name": "TargetNode_1779751859108395_3924",
+      "attr": {},
+      "created_at": "2026-05-25T23:30:59.110763"
+    },
+    {
+      "id": "0c4b21c662ef",
+      "name": "AgentTestNode_1779751859142985_8953",
+      "attr": {
+        "type": "conflict"
+      },
+      "created_at": "2026-05-25T23:30:59.145455"
+    },
+    {
+      "id": "991387e771c2",
+      "name": "TestNode_1779752456021402_5238",
+      "attr": {
+        "source_id": "test_source"
+      },
+      "created_at": "2026-05-25T23:40:56.021424"
+    },
+    {
+      "id": "38c0c2b3c670",
+      "name": "SourceNode_1779752456034300_5696",
+      "attr": {},
+      "created_at": "2026-05-25T23:40:56.034323"
+    },
+    {
+      "id": "cf5c764bace4",
+      "name": "TargetNode_1779752456034308_1566",
+      "attr": {},
+      "created_at": "2026-05-25T23:40:56.036690"
+    },
+    {
+      "id": "0e40e102995d",
+      "name": "TestNode_1779752456042730_7050",
+      "attr": {},
+      "created_at": "2026-05-25T23:40:56.042748"
+    },
+    {
+      "id": "51025b88e10f",
+      "name": "AgentTestNode_1779752456072539_6232",
+      "attr": {
+        "source_id": "test_integration"
+      },
+      "created_at": "2026-05-25T23:40:56.072571"
+    },
+    {
+      "id": "20292977669a",
+      "name": "TestNode_1779770528943756_4076",
+      "attr": {},
+      "created_at": "2026-05-26T04:42:08.943778"
+    }
+  ],
+  "edges": [
+    {
+      "source": "测试节点1",
+      "target": "测试节点2",
+      "relation": "测试关系",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957757"
+    },
+    {
+      "source": "知识推演_测试节点2_测试关系_测试节点1",
+      "target": "系统迭代任务_5",
+      "relation": "自主衍生",
+      "weight": 0.9000000000000001,
+      "created_at": "2026-05-26T04:42:08.957759"
+    },
+    {
+      "source": "知识推演_测试任务_1_自主衍生_系统迭代任务_0",
+      "target": "系统迭代任务_6",
+      "relation": "自主衍生",
+      "weight": 0.9000000000000001,
+      "created_at": "2026-05-26T04:42:08.957761"
+    },
+    {
+      "source": "补丁测试节点",
+      "target": "另一个节点",
+      "relation": "测试",
+      "weight": 0.5,
+      "created_at": "2026-05-26T04:42:08.957763"
+    },
+    {
+      "source": "知识推演_系统迭代任务_0_自主衍生_测试任务_1",
+      "target": "系统迭代任务_5",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957765"
+    },
+    {
+      "source": "知识推演_系统迭代任务_0_自主衍生_初始认知任务",
+      "target": "系统迭代任务_6",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957767"
+    },
+    {
+      "source": "探索关联_批量测试节点_5_关联类型_3_批量测试节点_7",
+      "target": "系统迭代任务_10",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957769"
+    },
+    {
+      "source": "探索关联_批量测试节点_36_关联类型_3_批量测试节点_39",
+      "target": "系统迭代任务_11",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957770"
+    },
+    {
+      "source": "巩固关联_批量测试节点_40_关联类型_0_批量测试节点_43",
+      "target": "系统迭代任务_12",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957772"
+    },
+    {
+      "source": "巩固关联_批量测试节点_0_关联类型_3_批量测试节点_3",
+      "target": "系统迭代任务_13",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957774"
+    },
+    {
+      "source": "巩固关联_批量测试节点_22_关联类型_0_批量测试节点_23",
+      "target": "系统迭代任务_14",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957776"
+    },
+    {
+      "source": "知识推演任务:系统迭代任务_4",
+      "target": "系统迭代任务_15",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957778"
+    },
+    {
+      "source": "知识推演任务:系统迭代任务_5",
+      "target": "系统迭代任务_18",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957779"
+    },
+    {
+      "source": "知识推演任务:系统迭代任务_6",
+      "target": "系统迭代任务_20",
+      "relation": "自主衍生",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957781"
+    },
+    {
+      "source": "深度学习",
+      "target": "神经网络",
+      "relation": "技术",
+      "weight": 0.9,
+      "created_at": "2026-05-26T04:42:08.957783"
+    },
+    {
+      "source": "测试知识1",
+      "target": "测试知识2",
+      "relation": "related_to",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957785"
+    },
+    {
+      "source": "阶段24测试",
+      "target": "Web界面",
+      "relation": "includes",
+      "weight": 0.95,
+      "created_at": "2026-05-26T04:42:08.957786"
+    },
+    {
+      "source": "TestNode1",
+      "target": "TestNode2",
+      "relation": "related_to",
+      "weight": 0.5,
+      "created_at": "2026-05-26T04:42:08.957788"
+    },
+    {
+      "source": "A",
+      "target": "B",
+      "relation": "related_to",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957791"
+    },
+    {
+      "source": "B",
+      "target": "C",
+      "relation": "related_to",
+      "weight": 0.9,
+      "created_at": "2026-05-26T04:42:08.957793"
+    },
+    {
+      "source": "A",
+      "target": "C",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.504,
+      "created_at": "2026-05-26T04:42:08.957795"
+    },
+    {
+      "source": "B",
+      "target": "A",
+      "relation": "related_to",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957797"
+    },
+    {
+      "source": "Alice",
+      "target": "Bob",
+      "relation": "knows",
+      "weight": 0.9,
+      "created_at": "2026-05-26T04:42:08.957799"
+    },
+    {
+      "source": "Bob",
+      "target": "Alice",
+      "relation": "knows",
+      "weight": 0.54,
+      "created_at": "2026-05-26T04:42:08.957800"
+    },
+    {
+      "source": "X",
+      "target": "Y",
+      "relation": "part_of",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957802"
+    },
+    {
+      "source": "Y",
+      "target": "Z",
+      "relation": "part_of",
+      "weight": 0.9,
+      "created_at": "2026-05-26T04:42:08.957804"
+    },
+    {
+      "source": "X",
+      "target": "Z",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.504,
+      "created_at": "2026-05-26T04:42:08.957806"
+    },
+    {
+      "source": "Y",
+      "target": "X",
+      "relation": "part_of",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957808"
+    },
+    {
+      "source": "测试节点2",
+      "target": "测试节点1",
+      "relation": "测试关系",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957809"
+    },
+    {
+      "source": "系统迭代任务_5",
+      "target": "知识推演_测试节点2_测试关系_测试节点1",
+      "relation": "自主衍生",
+      "weight": 0.54,
+      "created_at": "2026-05-26T04:42:08.957811"
+    },
+    {
+      "source": "系统迭代任务_6",
+      "target": "知识推演_测试任务_1_自主衍生_系统迭代任务_0",
+      "relation": "自主衍生",
+      "weight": 0.54,
+      "created_at": "2026-05-26T04:42:08.957813"
+    },
+    {
+      "source": "系统迭代任务_5",
+      "target": "知识推演_系统迭代任务_0_自主衍生_测试任务_1",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957815"
+    },
+    {
+      "source": "系统迭代任务_6",
+      "target": "知识推演_系统迭代任务_0_自主衍生_初始认知任务",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957817"
+    },
+    {
+      "source": "另一个节点",
+      "target": "补丁测试节点",
+      "relation": "测试",
+      "weight": 0.3,
+      "created_at": "2026-05-26T04:42:08.957819"
+    },
+    {
+      "source": "A",
+      "target": "A",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.2688,
+      "created_at": "2026-05-26T04:42:08.957821"
+    },
+    {
+      "source": "C",
+      "target": "A",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.3024,
+      "created_at": "2026-05-26T04:42:08.957823"
+    },
+    {
+      "source": "系统迭代任务_10",
+      "target": "探索关联_批量测试节点_5_关联类型_3_批量测试节点_7",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957825"
+    },
+    {
+      "source": "系统迭代任务_11",
+      "target": "探索关联_批量测试节点_36_关联类型_3_批量测试节点_39",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957827"
+    },
+    {
+      "source": "系统迭代任务_12",
+      "target": "巩固关联_批量测试节点_40_关联类型_0_批量测试节点_43",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957828"
+    },
+    {
+      "source": "系统迭代任务_13",
+      "target": "巩固关联_批量测试节点_0_关联类型_3_批量测试节点_3",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957830"
+    },
+    {
+      "source": "系统迭代任务_14",
+      "target": "巩固关联_批量测试节点_22_关联类型_0_批量测试节点_23",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957832"
+    },
+    {
+      "source": "系统迭代任务_15",
+      "target": "知识推演任务:系统迭代任务_4",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957834"
+    },
+    {
+      "source": "系统迭代任务_18",
+      "target": "知识推演任务:系统迭代任务_5",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957835"
+    },
+    {
+      "source": "系统迭代任务_20",
+      "target": "知识推演任务:系统迭代任务_6",
+      "relation": "自主衍生",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957837"
+    },
+    {
+      "source": "神经网络",
+      "target": "深度学习",
+      "relation": "技术",
+      "weight": 0.54,
+      "created_at": "2026-05-26T04:42:08.957839"
+    },
+    {
+      "source": "测试知识2",
+      "target": "测试知识1",
+      "relation": "related_to",
+      "weight": 0.48,
+      "created_at": "2026-05-26T04:42:08.957841"
+    },
+    {
+      "source": "Web界面",
+      "target": "阶段24测试",
+      "relation": "includes",
+      "weight": 0.57,
+      "created_at": "2026-05-26T04:42:08.957842"
+    },
+    {
+      "source": "TestNode2",
+      "target": "TestNode1",
+      "relation": "related_to",
+      "weight": 0.3,
+      "created_at": "2026-05-26T04:42:08.957844"
+    },
+    {
+      "source": "B",
+      "target": "B",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.2688,
+      "created_at": "2026-05-26T04:42:08.957846"
+    },
+    {
+      "source": "B",
+      "target": "C",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.169344,
+      "created_at": "2026-05-26T04:42:08.957848"
+    },
+    {
+      "source": "C",
+      "target": "B",
+      "relation": "related_to",
+      "weight": 0.54,
+      "created_at": "2026-05-26T04:42:08.957849"
+    },
+    {
+      "source": "Alice",
+      "target": "Alice",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.3402,
+      "created_at": "2026-05-26T04:42:08.957851"
+    },
+    {
+      "source": "Bob",
+      "target": "Bob",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.3402,
+      "created_at": "2026-05-26T04:42:08.957853"
+    },
+    {
+      "source": "X",
+      "target": "X",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.2688,
+      "created_at": "2026-05-26T04:42:08.957855"
+    },
+    {
+      "source": "Z",
+      "target": "X",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.3024,
+      "created_at": "2026-05-26T04:42:08.957857"
+    },
+    {
+      "source": "Y",
+      "target": "Y",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.2688,
+      "created_at": "2026-05-26T04:42:08.957858"
+    },
+    {
+      "source": "Y",
+      "target": "Z",
+      "relation": "inferred_from_builtin_transitive_1",
+      "weight": 0.169344,
+      "created_at": "2026-05-26T04:42:08.957860"
+    },
+    {
+      "source": "Z",
+      "target": "Y",
+      "relation": "part_of",
+      "weight": 0.54,
+      "created_at": "2026-05-26T04:42:08.957862"
+    },
+    {
+      "source": "源节点",
+      "target": "目标节点",
+      "relation": "相关",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957864"
+    },
+    {
+      "source": "源节点",
+      "target": "目标节点",
+      "relation": "包含",
+      "weight": 0.9,
+      "created_at": "2026-05-26T04:42:08.957865"
+    },
+    {
+      "source": "节点A",
+      "target": "节点B",
+      "relation": "关联",
+      "weight": 0.7,
+      "created_at": "2026-05-26T04:42:08.957867"
+    },
+    {
+      "source": "历史测试节点",
+      "target": "边测试节点",
+      "relation": "测试",
+      "weight": 0.5,
+      "created_at": "2026-05-26T04:42:08.957869"
+    },
+    {
+      "source": "快照测试节点1",
+      "target": "快照测试节点2",
+      "relation": "测试",
+      "weight": 0.6,
+      "created_at": "2026-05-26T04:42:08.957871"
+    },
+    {
+      "source": "统计测试节点1",
+      "target": "统计测试节点2",
+      "relation": "相关",
+      "weight": 0.7,
+      "created_at": "2026-05-26T04:42:08.957872"
+    },
+    {
+      "source": "Agent测试节点",
+      "target": "Agent测试目标节点",
+      "relation": "连接",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957874"
+    },
+    {
+      "source": "源节点_1779705721879636_5466",
+      "target": "目标节点_1779705721879644_4086",
+      "relation": "相关",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957876"
+    },
+    {
+      "source": "源节点_1779705721879636_5466",
+      "target": "目标节点_1779705721879644_4086",
+      "relation": "包含",
+      "weight": 0.9,
+      "created_at": "2026-05-26T04:42:08.957878"
+    },
+    {
+      "source": "节点A_1779705721890648_8001",
+      "target": "节点B_1779705721890654_4287",
+      "relation": "关联",
+      "weight": 0.7,
+      "created_at": "2026-05-26T04:42:08.957880"
+    },
+    {
+      "source": "历史测试节点_1779705721949853_1529",
+      "target": "边测试节点_1779705721952232_8488",
+      "relation": "测试",
+      "weight": 0.5,
+      "created_at": "2026-05-26T04:42:08.957881"
+    },
+    {
+      "source": "快照测试节点1_1779705721959154_6667",
+      "target": "快照测试节点2_1779705721959160_1397",
+      "relation": "测试",
+      "weight": 0.6,
+      "created_at": "2026-05-26T04:42:08.957885"
+    },
+    {
+      "source": "统计测试节点1_1779705721970937_2987",
+      "target": "统计测试节点2_1779705721970943_6596",
+      "relation": "相关",
+      "weight": 0.7,
+      "created_at": "2026-05-26T04:42:08.957887"
+    },
+    {
+      "source": "Agent测试节点_1779705721995921_6349",
+      "target": "Agent测试目标节点_1779705721998429_8778",
+      "relation": "连接",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957889"
+    },
+    {
+      "source": "SourceNode_1779751859086883_9785",
+      "target": "TargetNode_1779751859086892_3399",
+      "relation": "related_to",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957890"
+    },
+    {
+      "source": "SourceNode_1779751859108389_9851",
+      "target": "TargetNode_1779751859108395_3924",
+      "relation": "is_a",
+      "weight": 0.9,
+      "created_at": "2026-05-26T04:42:08.957892"
+    },
+    {
+      "source": "SourceNode_1779751859108389_9851",
+      "target": "TargetNode_1779751859108395_3924",
+      "relation": "related_to",
+      "weight": 0.7,
+      "created_at": "2026-05-26T04:42:08.957894"
+    },
+    {
+      "source": "SourceNode_1779752456034300_5696",
+      "target": "TargetNode_1779752456034308_1566",
+      "relation": "related_to",
+      "weight": 0.8,
+      "created_at": "2026-05-26T04:42:08.957896"
+    }
+  ]
+}

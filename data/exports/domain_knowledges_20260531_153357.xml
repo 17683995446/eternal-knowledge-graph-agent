@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<domain_knowledges>
+  <export_info>
+    <version>1.0</version>
+    <exported_at>2026-05-31T15:33:57.696484</exported_at>
+    <total_count>12</total_count>
+  </export_info>
+  <knowledges>
+    <knowledge>
+      <knowledge_id>technology_skill_20260526_111303</knowledge_id>
+      <domain_type>technology</domain_type>
+      <name>Python高级编程</name>
+      <content>{&quot;skill_name&quot;: &quot;Python&quot;, &quot;category&quot;: &quot;编程语言&quot;, &quot;level&quot;: &quot;高级&quot;, &quot;applications&quot;: [&quot;Web开发&quot;, &quot;数据分析&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>技术|编程|Python|Web开发</tags>
+      <sources></sources>
+      <created_at>2026-05-26T11:13:03.625424</created_at>
+      <updated_at>2026-05-26T11:13:03.625428</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>health_condition_20260526_111303</knowledge_id>
+      <domain_type>healthcare</domain_type>
+      <name>普通感冒诊疗</name>
+      <content>{&quot;condition_name&quot;: &quot;感冒&quot;, &quot;symptoms&quot;: [&quot;流鼻涕&quot;, &quot;咳嗽&quot;], &quot;causes&quot;: [&quot;病毒&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>医疗|健康|感冒</tags>
+      <sources></sources>
+      <created_at>2026-05-26T11:13:03.625639</created_at>
+      <updated_at>2026-05-26T11:13:03.625641</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>education_subject_20260526_111303</knowledge_id>
+      <domain_type>education</domain_type>
+      <name>线性代数基础</name>
+      <content>{&quot;subject_name&quot;: &quot;线性代数&quot;, &quot;grade_level&quot;: &quot;大学&quot;, &quot;core_concepts&quot;: [&quot;向量&quot;, &quot;矩阵&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>教育|数学|线性代数</tags>
+      <sources></sources>
+      <created_at>2026-05-26T11:13:03.625806</created_at>
+      <updated_at>2026-05-26T11:13:03.625808</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>technology_skill_20260526_111416</knowledge_id>
+      <domain_type>technology</domain_type>
+      <name>Python高级编程</name>
+      <content>{&quot;skill_name&quot;: &quot;Python&quot;, &quot;category&quot;: &quot;编程语言&quot;, &quot;level&quot;: &quot;高级&quot;, &quot;applications&quot;: [&quot;Web开发&quot;, &quot;数据分析&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>技术|编程|Python|Web开发</tags>
+      <sources></sources>
+      <created_at>2026-05-26T11:14:16.680159</created_at>
+      <updated_at>2026-05-26T11:14:16.680164</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>health_condition_20260526_111416</knowledge_id>
+      <domain_type>healthcare</domain_type>
+      <name>普通感冒诊疗</name>
+      <content>{&quot;condition_name&quot;: &quot;感冒&quot;, &quot;symptoms&quot;: [&quot;流鼻涕&quot;, &quot;咳嗽&quot;], &quot;causes&quot;: [&quot;病毒&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>医疗|健康|感冒</tags>
+      <sources></sources>
+      <created_at>2026-05-26T11:14:16.680461</created_at>
+      <updated_at>2026-05-26T11:14:16.680462</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>education_subject_20260526_111416</knowledge_id>
+      <domain_type>education</domain_type>
+      <name>线性代数基础</name>
+      <content>{&quot;subject_name&quot;: &quot;线性代数&quot;, &quot;grade_level&quot;: &quot;大学&quot;, &quot;core_concepts&quot;: [&quot;向量&quot;, &quot;矩阵&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>教育|数学|线性代数</tags>
+      <sources></sources>
+      <created_at>2026-05-26T11:14:16.680903</created_at>
+      <updated_at>2026-05-26T11:14:16.680905</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>health_condition_20260531_153322</knowledge_id>
+      <domain_type>healthcare</domain_type>
+      <name>普通感冒</name>
+      <content>{&quot;condition_name&quot;: &quot;感冒&quot;, &quot;symptoms&quot;: [&quot;流鼻涕&quot;], &quot;causes&quot;: [&quot;病毒&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>医疗|健康</tags>
+      <sources></sources>
+      <created_at>2026-05-31T15:33:22.227147</created_at>
+      <updated_at>2026-05-31T15:33:22.227151</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>education_subject_20260531_153322</knowledge_id>
+      <domain_type>education</domain_type>
+      <name>线性代数</name>
+      <content>{&quot;subject_name&quot;: &quot;线性代数&quot;, &quot;grade_level&quot;: &quot;大学&quot;, &quot;core_concepts&quot;: [&quot;向量&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>教育|数学</tags>
+      <sources></sources>
+      <created_at>2026-05-31T15:33:22.227753</created_at>
+      <updated_at>2026-05-31T15:33:22.227757</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>technology_skill_20260531_153322</knowledge_id>
+      <domain_type>technology</domain_type>
+      <name>Python高级编程</name>
+      <content>{&quot;skill_name&quot;: &quot;Python&quot;, &quot;category&quot;: &quot;编程语言&quot;, &quot;level&quot;: &quot;高级&quot;}</content>
+      <confidence>0.8</confidence>
+      <tags>技术|编程|Python</tags>
+      <sources></sources>
+      <created_at>2026-05-31T15:33:22.226725</created_at>
+      <updated_at>2026-05-31T15:33:22.226730</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>technology_skill_20260531_153357</knowledge_id>
+      <domain_type>technology</domain_type>
+      <name>Python高级编程</name>
+      <content>{&quot;skill_name&quot;: &quot;Python&quot;, &quot;category&quot;: &quot;编程语言&quot;, &quot;level&quot;: &quot;高级&quot;}</content>
+      <confidence>0.8</confidence>
+      <tags>技术|编程|Python</tags>
+      <sources></sources>
+      <created_at>2026-05-31T15:33:57.693708</created_at>
+      <updated_at>2026-05-31T15:33:57.693712</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>health_condition_20260531_153357</knowledge_id>
+      <domain_type>healthcare</domain_type>
+      <name>普通感冒</name>
+      <content>{&quot;condition_name&quot;: &quot;感冒&quot;, &quot;symptoms&quot;: [&quot;流鼻涕&quot;], &quot;causes&quot;: [&quot;病毒&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>医疗|健康</tags>
+      <sources></sources>
+      <created_at>2026-05-31T15:33:57.694235</created_at>
+      <updated_at>2026-05-31T15:33:57.694239</updated_at>
+    </knowledge>
+    <knowledge>
+      <knowledge_id>education_subject_20260531_153357</knowledge_id>
+      <domain_type>education</domain_type>
+      <name>线性代数</name>
+      <content>{&quot;subject_name&quot;: &quot;线性代数&quot;, &quot;grade_level&quot;: &quot;大学&quot;, &quot;core_concepts&quot;: [&quot;向量&quot;]}</content>
+      <confidence>0.8</confidence>
+      <tags>教育|数学</tags>
+      <sources></sources>
+      <created_at>2026-05-31T15:33:57.694933</created_at>
+      <updated_at>2026-05-31T15:33:57.694937</updated_at>
+    </knowledge>
+  </knowledges>
+</domain_knowledges>

@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-05-31T16:23:37.184689",
+  "feedbacks": [
+    {
+      "feedback_id": "fb_technology_skill_20260531_160941_20260531160941",
+      "knowledge_id": "technology_skill_20260531_160941",
+      "user_id": "user3",
+      "feedback_type": "correction",
+      "rating": null,
+      "comment": "内容有误",
+      "correction": {
+        "level": "专家级"
+      },
+      "timestamp": "2026-05-31T16:09:41.073667"
+    },
+    {
+      "feedback_id": "fb_technology_skill_20260526_111303_20260531162337",
+      "knowledge_id": "technology_skill_20260526_111303",
+      "user_id": "user1",
+      "feedback_type": "positive",
+      "rating": 5,
+      "comment": "",
+      "correction": {},
+      "timestamp": "2026-05-31T16:23:37.184680"
+    }
+  ]
+}

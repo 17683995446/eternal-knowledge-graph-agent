@@ -1,0 +1,210 @@
+{
+  "export_info": {
+    "version": "1.0",
+    "exported_at": "2026-05-31T15:33:22.228350",
+    "total_count": 9
+  },
+  "knowledges": [
+    {
+      "knowledge_id": "technology_skill_20260526_111303",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级",
+        "applications": [
+          "Web开发",
+          "数据分析"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python",
+        "Web开发"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:13:03.625424",
+      "updated_at": "2026-05-26T11:13:03.625428"
+    },
+    {
+      "knowledge_id": "health_condition_20260526_111303",
+      "domain_type": "healthcare",
+      "name": "普通感冒诊疗",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕",
+          "咳嗽"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康",
+        "感冒"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:13:03.625639",
+      "updated_at": "2026-05-26T11:13:03.625641"
+    },
+    {
+      "knowledge_id": "education_subject_20260526_111303",
+      "domain_type": "education",
+      "name": "线性代数基础",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量",
+          "矩阵"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学",
+        "线性代数"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:13:03.625806",
+      "updated_at": "2026-05-26T11:13:03.625808"
+    },
+    {
+      "knowledge_id": "technology_skill_20260526_111416",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级",
+        "applications": [
+          "Web开发",
+          "数据分析"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python",
+        "Web开发"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:14:16.680159",
+      "updated_at": "2026-05-26T11:14:16.680164"
+    },
+    {
+      "knowledge_id": "health_condition_20260526_111416",
+      "domain_type": "healthcare",
+      "name": "普通感冒诊疗",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕",
+          "咳嗽"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康",
+        "感冒"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:14:16.680461",
+      "updated_at": "2026-05-26T11:14:16.680462"
+    },
+    {
+      "knowledge_id": "education_subject_20260526_111416",
+      "domain_type": "education",
+      "name": "线性代数基础",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量",
+          "矩阵"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学",
+        "线性代数"
+      ],
+      "sources": [],
+      "created_at": "2026-05-26T11:14:16.680903",
+      "updated_at": "2026-05-26T11:14:16.680905"
+    },
+    {
+      "knowledge_id": "technology_skill_20260531_153322",
+      "domain_type": "technology",
+      "name": "Python高级编程",
+      "content": {
+        "skill_name": "Python",
+        "category": "编程语言",
+        "level": "高级"
+      },
+      "confidence": 0.8,
+      "tags": [
+        "技术",
+        "编程",
+        "Python"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:22.226725",
+      "updated_at": "2026-05-31T15:33:22.226730"
+    },
+    {
+      "knowledge_id": "health_condition_20260531_153322",
+      "domain_type": "healthcare",
+      "name": "普通感冒",
+      "content": {
+        "condition_name": "感冒",
+        "symptoms": [
+          "流鼻涕"
+        ],
+        "causes": [
+          "病毒"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "医疗",
+        "健康"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:22.227147",
+      "updated_at": "2026-05-31T15:33:22.227151"
+    },
+    {
+      "knowledge_id": "education_subject_20260531_153322",
+      "domain_type": "education",
+      "name": "线性代数",
+      "content": {
+        "subject_name": "线性代数",
+        "grade_level": "大学",
+        "core_concepts": [
+          "向量"
+        ]
+      },
+      "confidence": 0.8,
+      "tags": [
+        "教育",
+        "数学"
+      ],
+      "sources": [],
+      "created_at": "2026-05-31T15:33:22.227753",
+      "updated_at": "2026-05-31T15:33:22.227757"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-05-31T15:57:21.476944",
+  "shares": [
+    {
+      "share_id": "share_technology_skill_20260531_153733_20260531153733",
+      "knowledge_id": "technology_skill_20260531_153733",
+      "shared_by": "user1",
+      "shared_with": null,
+      "permission": "read",
+      "expires_at": null,
+      "status": "active",
+      "created_at": "2026-05-31T15:37:33.381035"
+    },
+    {
+      "share_id": "share_technology_skill_20260531_155721_20260531155721",
+      "knowledge_id": "technology_skill_20260531_155721",
+      "shared_by": "user1",
+      "shared_with": "user2",
+      "permission": "write",
+      "expires_at": null,
+      "status": "active",
+      "created_at": "2026-05-31T15:57:21.476933"
+    }
+  ]
+}

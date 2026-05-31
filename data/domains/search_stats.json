@@ -1,0 +1,1378 @@
+{
+  "version": "1.0",
+  "saved_at": "2026-05-31T16:23:37.225819",
+  "stats": {
+    "technology_skill_20260526_111303": {
+      "view_count": 5,
+      "access_count": 5,
+      "last_accessed": "2026-05-31T15:55:41.527858",
+      "relevance_score": 0.5,
+      "hot_score": 0.32000000000000006
+    },
+    "technology_skill_20260526_111416": {
+      "view_count": 19,
+      "access_count": 19,
+      "last_accessed": "2026-05-31T15:55:41.528380",
+      "relevance_score": 1.0,
+      "hot_score": 0.47600000000000003
+    },
+    "technology_skill_20260531_153322": {
+      "view_count": 13,
+      "access_count": 13,
+      "last_accessed": "2026-05-31T16:23:37.219270",
+      "relevance_score": 1.0,
+      "hot_score": 0.452
+    },
+    "technology_skill_20260531_153357": {
+      "view_count": 13,
+      "access_count": 13,
+      "last_accessed": "2026-05-31T16:23:37.221469",
+      "relevance_score": 1.0,
+      "hot_score": 0.452
+    },
+    "technology_skill_20260531_154126": {
+      "view_count": 13,
+      "access_count": 13,
+      "last_accessed": "2026-05-31T16:23:37.223633",
+      "relevance_score": 1.0,
+      "hot_score": 0.452
+    },
+    "technology_skill_20260531_154517": {
+      "view_count": 13,
+      "access_count": 13,
+      "last_accessed": "2026-05-31T16:23:37.225808",
+      "relevance_score": 1.0,
+      "hot_score": 0.452
+    },
+    "technology_skill_20260531_154537": {
+      "view_count": 12,
+      "access_count": 12,
+      "last_accessed": "2026-05-31T15:57:23.017903",
+      "relevance_score": 1.0,
+      "hot_score": 0.448
+    },
+    "technology_skill_20260531_155227": {
+      "view_count": 2,
+      "access_count": 2,
+      "last_accessed": "2026-05-31T15:57:21.471756",
+      "relevance_score": 0.2,
+      "hot_score": 0.24800000000000003
+    },
+    "migrated_2cd49961d64f": {
+      "view_count": 1,
+      "access_count": 1,
+      "last_accessed": "2026-05-31T15:55:41.528774",
+      "relevance_score": 0.1,
+      "hot_score": 0.22400000000000003
+    },
+    "technology_skill_20260531_153733": {
+      "view_count": 13,
+      "access_count": 13,
+      "last_accessed": "2026-05-31T16:23:37.206173",
+      "relevance_score": 1.0,
+      "hot_score": 0.452
+    },
+    "fork_technology_skill_20260531_153733_20260531153733": {
+      "view_count": 12,
+      "access_count": 12,
+      "last_accessed": "2026-05-31T16:23:37.208232",
+      "relevance_score": 1.0,
+      "hot_score": 0.448
+    },
+    "technology_skill_20260531_155541": {
+      "view_count": 12,
+      "access_count": 12,
+      "last_accessed": "2026-05-31T16:23:37.210432",
+      "relevance_score": 1.0,
+      "hot_score": 0.448
+    },
+    "technology_skill_20260531_155721": {
+      "view_count": 12,
+      "access_count": 12,
+      "last_accessed": "2026-05-31T16:23:37.212624",
+      "relevance_score": 1.0,
+      "hot_score": 0.448
+    },
+    "health_condition_20260526_111303": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "education_subject_20260526_111303": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "health_condition_20260526_111416": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "education_subject_20260526_111416": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "health_condition_20260531_153322": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "education_subject_20260531_153322": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "health_condition_20260531_153357": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "education_subject_20260531_153357": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a001e7e82a73": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_3cd1b9b3d0fb": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a4569bd55b3a": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_cb1763d14e77": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_df39f6a48d6d": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9682d77257f9": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_207fdd290de1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_309a1c6042cf": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ed5227c342ba": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_93204dab3167": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_86b770385a1c": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_d03a4ad2ee56": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_293c54c635ac": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_5416d5ba3ff1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_57712d5b8682": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_d37a5f2b8089": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_d76599cd6540": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_dba517293a47": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_b7fbf906f839": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_bea934cf2c6c": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_8478534ead5b": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_bd2782a39214": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_1bff50c8c010": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_10efd99c0c4c": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_62a21d44aff2": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_e4a8083109f5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_f2a63bebc056": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_06b15804edaf": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_0660baa03107": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2b14b50b77b6": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_94c8419f1753": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ce14603a9d42": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a27220879052": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_068482ebfd20": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_39d0de2f7752": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9e66281057ab": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_4b56bc25a2a9": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_c27ac70b617a": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_bc1c9afd560b": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_1932831c88c5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_3ca9a473a6a6": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_768ae3e0f9e1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_7e681f62f0d5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_11e74f6262cc": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_31a1517418a5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_30cc8e0f4dbd": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_6278a9bbc373": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_fdeb217e74a4": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2929fd796515": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_39140500a6f9": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a3b6356218df": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_74e40e749093": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_65f2f525f8fd": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_1923eeef9a5e": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_896922698677": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ff739ec76726": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_0121733a6bdb": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_5ba93827b544": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_3f270449c4c0": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_714f937f07eb": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_48f4b9a6ccd8": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2cd236d37435": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_222077a7473f": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_d4405f87d5a9": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_1dbd38663aeb": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_09b8ac59c28f": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_e3b998f1ad01": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_37003cb5f776": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_6717fa3d1976": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9dc45cb16a9d": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_6c62dfcb0dd3": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_c60dd7dfba3a": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_748b83549fc3": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_3ceb2de77ab7": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_64c21e392226": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_b99b056dce51": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_91867db14606": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ac3d49204eff": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_c53ccd93ae84": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2618fc2eb94d": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_242315efae59": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_619dbcd044d5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_4c3df57d6f74": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a605a95df8aa": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a4e8a18a7557": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_e33222a13ac5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_1c8e927934e4": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_79c41e8dbdd0": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_1d866cf11f25": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_d6b8fa83cfb0": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_66fc9a8e6d07": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_f5c3a1836194": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_d65027fa106b": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_18d3f245ef99": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9e64fb3c308c": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ac1daa01e27e": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9a458ce7a1b1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ffbf2243e21f": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_b50a760494bd": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_79ef207370e2": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_d6ba83b31f61": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_c937a78820e1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_4fdd2cd84297": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_684cc0d43ac9": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_bc8f60f68f59": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_4572a202bfd2": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2f2a9ef77816": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_b168025430db": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_dd64cce83711": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_fc3ae24a0d0b": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_aa92c16f06fa": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ea6e700a3481": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ae5d05ef44df": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9d5efff863b3": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_f3c3cab41b00": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_66562170e27a": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_eec47f9007ff": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_ca5a40798bde": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_728fcc61d4e7": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_e1799e383e0d": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2bfb005d5eba": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2433e73bb11e": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9fa902523028": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_57168365b7c3": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_b244754268cf": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_42e81e812212": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_fe6040262207": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_c90b6ee9d06e": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_60dc73cf89e9": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a3109662d25c": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_4ea1a76c9ce1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_762fd57045f5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_6af6fc8c1e70": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_6e0ba199d768": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_8b3e7942ffaf": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_9747f6859699": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_c9de45990373": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_14af9fbed27a": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_2dc98dc515ca": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_5d016aa901bb": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a8237810dce7": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_0c4b21c662ef": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_991387e771c2": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_38c0c2b3c670": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_cf5c764bace4": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_0e40e102995d": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_51025b88e10f": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_20292977669a": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_64f1f7ee1ddd": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_a0c48e15d2bc": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_adf9ac6895e4": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "migrated_72d15ac78bf6": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "health_condition_20260531_154126": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "education_subject_20260531_154126": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_technology_20260531154857_0": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_technology_20260531154857_1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_technology_20260531154857_2": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_technology_20260531154857_3": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_technology_20260531154857_4": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_technology_20260531154857_5": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_healthcare_20260531154857_0": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_healthcare_20260531154857_1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_healthcare_20260531154857_2": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "extracted_education_20260531154857_0": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "structured_technology_20260531154857_0": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "structured_technology_20260531154857_1": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "structured_technology_20260531154857_2": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "health_condition_20260531_155227": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "education_subject_20260531_155227": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "health_condition_20260531_155541": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "health_condition_20260531_155721": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "education_subject_20260531_155721": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "finance_product_20260531_155721": {
+      "view_count": 0,
+      "access_count": 0,
+      "last_accessed": null,
+      "relevance_score": 0.0,
+      "hot_score": 0.0
+    },
+    "fork_technology_skill_20260531_155721_20260531155721": {
+      "view_count": 11,
+      "access_count": 11,
+      "last_accessed": "2026-05-31T16:23:37.214872",
+      "relevance_score": 1.0,
+      "hot_score": 0.44400000000000006
+    },
+    "technology_skill_20260531_160941": {
+      "view_count": 1,
+      "access_count": 1,
+      "last_accessed": "2026-05-31T16:23:37.217068",
+      "relevance_score": 0.1,
+      "hot_score": 0.22400000000000003
+    }
+  }
+}
